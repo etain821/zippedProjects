@@ -1,0 +1,411 @@
+Page 1
+
+INTRODUCTION OF NEW LEGISLATION IN THE FIELD
+PROTECTION OF PERSONAL DATA
+SHORT GUIDE FOR CITIES AND MUNICIPALITIES
+
+From 25.5. 2018, the EUROPEAN REGULATION will be applied in practice
+(EU) 2016/679 OF THE PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of individuals
+processing of personal data and on the free movement of such data, repealing the Directive
+95/46 / EC (General Data Protection Regulation) (hereinafter "the Regulation") 1 and Act no. 18/2018
+Z. z. on the Protection of Personal Data and on the Amendment of Certain Acts (hereinafter referred to as the “Act”)
+or "Act no. 18/2018 Coll. ”) 2 .
+How to deal with the advent of this legislation in practice?
+What to focus on in the environment of towns and villages?
+What to check?
+Based on the " control questions " below from the different areas covered by the legislation
+data protection, it is possible for municipalities and cities to prepare for the entry into force of the regulation
+and the law and mapped the flows of personal data in their environment.
+
+1
+
+PERSONAL DATA FLOW MAPPING - GENERAL MAPPING
+In order to comply with the regulation and the law in the environment of the operator, which is the municipality or
+city, it is necessary to know how the "operator - municipality, city 3 " has in its conditions
+addressed area of ​protection and processing of personal data according to current legislation. Just
+the municipality / city finds out “ what personal data it processes and how it has the processing in its conditions
+adjusted "where the weaknesses and what needs to be done in order to comply with Regulation
+and the law; mapping the flow of personal data is the basis on which it can and should start
+the process of aligning with the new legislation in the environment of any operator, ie
+municipality or city.
+Questions - general mapping of the flow of personal data
+It is appropriate to "map" the flow of personal data in the environment of the operator municipalities, cities; specifically
+• it is necessary to examine how personal data "flows" in the environment of the municipality / city: as their municipality
+obtains and how it processes, on what legal basis such processing takes place, how
+their municipality / city archives, on what legal basis it makes them available, provides them
+or publishes, and how they are liquidated ;
+• The purpose of this initial mapping is to review and determine the status of how
+the municipality / city processes personal data;
+
+1
+2
+3
+
+https://dataprotection.gov.sk/uoou/sites/default/files/nariad_2016_679_text_sk.pdf
+https://www.slov-lex.sk/static/pdf/2018/18/ZZ_2018_18_20180525.pdf
+https://www.slov-lex.sk/static/pdf/1990/369/ZZ_1990_369_20161101.pdf
+
+Page 2
+
+• The aim of this first step is to “clean up” the flow of data in the municipality / city from the personal ones
+data on which the processing of the municipality / city lacks a legal basis and the finding that
+processing takes place without a legal basis and the disposal of such identified
+personal data, or assigning them the correct legal basis, if any;
+• The aim is also to eliminate " merging, interconnection or duplication " of legal bases
+where it is inappropriate or outright incorrect, for example if in pre-contractual
+relations or contractual relations, except for the contract " for security " municipality / city
+also asks the data subjects to consent to the processing of personal data 4 ;
+• The aim is to get an overview of the flow of personal data in the environment at the end of the mapping
+operator (municipality / city) also with its errors and shortcomings, which subsequently, already
+as identified, the operator (municipality / city) will address.
+For the purpose of performing the mapping, it is also possible to use the questions below that you ask
+the operator - municipality / city will answer and get an overview of the flow of personal data in its
+environment:
+a) Indication of the operator's data - municipality / city, address, contact details
+municipality / city, indication of the statute;
+b) Date of mapping - state the specific date of mapping,
+where appropriate, the beginning and end of the mapping;
+c) In which areas does the municipality / city process personal data on its own
+currency - is the operator?
+• Indicate the areas in which personal data are processed
+natural persons by the municipality / city, it is appropriate to accurately identify these areas, ie
+determine also the special law / s and its / their specific provision / on the basis of which
+personal data are processed by the municipality or city 5 , namely:
+Delegated performance of state administration;
+I.
+Performance of state administration - self-government;
+II.
+Internal processes of the operator (municipality / city) - human resources agenda
+III.
+and wages, employee health and safety agenda, other employee training,
+employee attendance, company motor vehicles, business trips
+
+2
+
+employees, etc.
+d) What categories of personal data does the municipality / city process? It is necessary to make a basis
+the above list of legal bases (most often special laws
+and possibly consent) to identify which specific categories (possibly also specific
+personal data) personal data are processed by the municipality / city:
+
+4 Requiring
+
+the sending of consent to the processing of personal data for the purposes of the selection procedure and its evaluation; it is not necessary as
+
+specifically, the selection procedure is a pre-contractual relationship, ie the legal basis for the processing of personal data is now § 10 para. 3 letter b) of the Act
+no. 122/2013 Coll. and from 25.5.2018 the legal basis will be Art. 6 par. 1 letter (b) of the Regulation.
+5 For example, agendas: Human Resources and Wages, Population Register, Registry, Chief Comptroller, Local Taxes and Fees, Decision-Making in
+Environmental Affairs, Joint Office - Environmental Decision-Making, Social Welfare, Building Authority, Joint Office
+building office, CCTV - public space, Promotion, Complaints, Litigation, Registry administration, Reporting
+anti-social activities, School office, Pupil records, School canteen, Accounting documents, Municipal council, Applications under
+info law, Evidence of events, Law of petition, General library, Contractual relations
+
+Page 3
+
+• "ordinary" personal data such as name, surname, address, date of birth, etc.,
+do not forget that from 25.5.2018 the birth number will no longer be a special category of personal
+data, but ordinary personal data (for more details § 78 paragraph 4 of Act No. 18/2018 Coll.);
+• special categories of personal data (Article 9 of the Regulation, or § 16 paragraph 1 of Act No.
+18/2018 Coll.) Such as personal data related to health, membership
+in trade unions, personal data relating to religion or
+worldview, etc.,
+• personal data relating to the admission of guilt for criminal offenses and misdemeanors; Art. 10 of the Regulation
+e) Identification of the person concerned; it is necessary that on the basis of the above elaborated
+the analysis was supplemented by the position of the person concerned vis-à-vis the operator
+municipality / city within the specific purpose of processing (for example: citizen, deputy
+municipal / city council - is affected and the authorized person at the same time,
+taxpayer, taxpayer, employee, debtor, complainant, etc.);
+f) What is the legal basis for the processing? 6 To be supplemented by the above
+mapping the "legal basis" of the processing of personal data, ie whether the municipality / city
+processes personal data on the basis of a special law, or will be on the basis of
+Act no. 18/2018 Coll., On the basis of a contract. It also needs to be mapped
+carried out with regard to the still effective Act no. 122/2013 Coll. and subsequently to legally
+the foundations which, with the expiry of Act no. 122/2013 Coll. "Expire / cease
+exist "have already been replaced in the mapping by the" new "legal bases under
+
+3
+
+regulations or laws that will apply from 25.5.2018 (for example, monitoring
+according to § 15 par. 7 of Act no. 122/2013 Coll. will be replaced by processing on the basis of
+fulfillment of obligations in the public interest pursuant to Art. 6 par. 1 letter (e) regulations, or
+for example, processing according to § 15 par. 6 second sentence 122/2013 Coll. will be replaced
+processing for the purposes of a legitimate interest pursuant to Art. 6 par. 1 letter (e) of the Regulation
+etc.).
+g) Determination of purposes. It is necessary to assign purposes to the data obtained so far
+processing of personal data, ie what is the purpose of the data in question
+on the basis of a special law, the municipality / city processes it. For example, fulfilling information
+Social Insurance Agency about the employee of the municipal office, which follows the municipality
+in the position of employer / operator from the above identified legal
+basis - a special law.
+h) Where and how does the municipality / city archive personal data?
+• The answer here will be, for example, that the municipality / city has an optical archive - for example
+cloud / "paper" classic archive;
+• It is also necessary to specify the parameters of the repository or archive of the municipality / city;
+that is, if the municipality / city has an optical archive, it is operated technically by the municipality, or this one
+does the service be provided by an external company? If an external company, what for the municipality within the service
+provides (only archiving or even liquidation or other services)? He has to have her
+the municipality concluded an intermediary contract? Is it closed now?
+• If the municipality / city has a “classic” paper archive, where is it located? If it's an archive
+secured? What are the specific security measures? Who has access to it? How
+
+6 See
+
+Art. 6 par. 1 letter a) to f) regulation, or § 13 par. 1 letter a) to f) of the Act.
+
+Page 4
+
+the municipality / city will find out about the security incident within this archive (for example
+security breaches, burglary, heating, etc.)?
+i) To whom does the municipality send the personal data of the persons concerned? Who are the recipients of personal
+data for the municipality / city in terms of regulation / law? It is necessary to name here
+all intermediaries of the municipality, other state bodies to which personal data
+the municipality / city sends, also for example law firms, if they represent the municipality or
+city ​etc.
+j) How long does the municipality / city process personal data? How the municipality has a defined purpose
+processing in the context of time? You need to review and adhere to it personal
+the data have been processed in particular within the time limits set by law for their processing
+basis, ie the period determined under a special law or the period for which it was granted
+consent; then it is necessary that, once the primary purpose of the processing has been fulfilled, they are
+personal data have been destroyed or have been archived according to the registry regulations
+municipality / city.
+k) How long does the municipality / city archive and store personal data? It is necessary to look
+and revise the registration rules 7 of the municipality / city (or draw it up if it is not), whether
+it sets out the retention periods for personal data. The purpose is to
+prevented the storage and archiving of everything for "ages" which burdens both
+operator (municipality / city) and this is not correct even with regard to obligations
+operator (municipality / city) who should not have personal data longer than
+necessary in the context of the purpose, or for archiving purposes, after processing
+for the primary purpose.
+l) How does the municipality / city dispose of personal data? Performs liquidation of assets by the municipality / city
+containing personal data under his direction or has a contract for this activity
+external entity? Is this in the position of a mediator towards the municipality? If so, she has it with him
+municipality / city concluded an intermediary contract? How does the municipality / city oversee
+liquidation? The municipality / city is being checked to see if the liquidation has taken place as it should
+did it not happen that the personal data was not destroyed / correctly disposed of? She knows
+on liquidation of municipality / city records?
+m) Does the municipality / city have intermediaries 8 ? If so, you need to adjust your contracts with them
+and align their wording with Art. 28 of the Regulation, or to close them again.
+
+4
+
+After the municipality / city has mapped the flow of personal data, it will get an overview of what
+what purposes it processes specific personal data, what is the legal basis of the processing as it has
+solved archiving and disposal of personal data, will be able to set up processes so that
+the part that now does not have it set correctly knew until 5/25/2018 to set it up correctly and also to
+dealt with the change of some legal bases (which we know from Act No. 122/2013
+Coll.) Which will expire on May 25, 2018 and also to properly "set" them in the context of the
+Regulation and Act no. 18/2018 Coll.
+
+7
+
+https://www.slov-lex.sk/static/pdf/2007/503/ZZ_2007_503_20071113.pdf
+Art. 28 of the Regulation.
+
+8 See
+
+Page 5
+
+PERSONNEL SUBSTRATE - PERSON RESPONSIBLE 9
+It is advisable for the operator to treat the personal substrate, which is with the arrival of a new one
+legislation will be subject to some changes, in particular as regards the necessary documents in the context of the principle
+proving the fulfillment of obligations and consistent processing of personal data with Act no.
+18/2018 Coll. After regulation. Part of the personnel substrate of the municipality / city as the operator
+in addition to employees processing and working with personal data (authorized persons), etc.
+responsible person of the municipality / city.
+Questions - Responsible person 10
+1. The municipality / city has an authorized person in accordance with Act no. 122/2013 Coll. ?
+2. The municipality / city notified the authorized person responsible (still authorized according to Act no.
+122/2013 Coll.) Of the Office?
+3. From the date 25/05/2018 money must be 11 village / city designated / entrusted responsible
+person on the basis of regulation / law no. 18/2018 Coll.
+• Does the municipality / city want to keep the current one or designate another responsible person?
+• If the municipality / city wants to entrust / designate another responsible person, it must have a responsible person
+authorized under Act no. 122/2013 Coll. at the office to log off and the responsible person
+determined in accordance with the regulation as of 25.5.2018 to notify the Office + also notify its contact
+data; it is ideal if the municipality / city does it in one step, ie logs off at the office
+authorized responsible person according to Act no. 122/2013 Coll. and notify the Office
+responsible person under the Regulation.
+
+5
+
+4. If the municipality / city has not yet had a responsible person in charge, it must entrust it to him
+contact details to notify the Office 12 !
+5. The responsible person of the municipality / city will be internal after 25.5.2018 - an employee of the municipality / city
+or external?
+• Will the responsible person be an employee? You need to be responsible
+person has been taken into account in his job / activity description and to have a municipality / city
+resolved any conflict of interest of that person.
+• Will the responsible person be external? It is necessary for the city / municipality to close with it
+a contract for consideration / free of charge on the basis of which it will perform for the city / municipality
+function of the responsible person.
+• Will the responsible person of the municipality / city be a legal entity - a member of a legal entity? Is a
+necessary in the contract between the municipality / city and the legal entity (providing
+services of the responsible person for the municipality / city) was specifically specified in the contract by the natural
+person - the future responsible person directly by name and surname, specified.
+
+9 See
+
+Art. 37 to 39 of the Regulation and recital 97 of the Regulation.
+
+10
+
+For the responsible person in the local government environment, see also the methodological guideline of the Office no. 1/2018 on this issue, which will be
+published in mid-April 2018 on the Office's website.
+11 See Art. 37 par. 1 letter a) to c) of the Regulation.
+12 See
+
+Art. 37 par. 7 of the Regulation.
+
+Page 6
+
+6. Will the municipality / city, as the operator, use, within the possibilities provided by the regulation,
+responsible person together with other municipalities (joint responsible person for several
+municipalities)?
+• If so, it is necessary to consider whether this responsible person will prosecute to perform his or her duties properly
+obligations. If the answer is no, it is advisable and we recommend looking for another individual
+or a legal entity (within it an employee) that would for the city / municipality
+performed the function of a responsible person.
+7. Is the municipality / city ready and aware of the obligation to provide everything to the responsible person
+necessary synergies 13 ?
+PERSONNEL SUBSTRATE - AUTHORIZED PERSON
+The Regulation does not recognize the term " beneficiary ", but this does not mean that it will cease to be entitled
+person actually exist.
+We would like to draw your attention to Art. 32 par. 4 of the Regulation
+“The operator and the intermediary shall take steps to ensure that each natural person
+a person acting under the authority of the operator or intermediary who has
+access to personal data, processed such data only on the basis of instructions from the controller with
+except where required to do so under Union or Member State law. ".
+
+6
+
+We also dare to draw attention to Art. 29 of the Regulation
+"Intermediary and any person acting on behalf of the operator or
+an intermediary who has access to personal data may process that data only on
+on the instructions of the operator, except where required by Union law
+or the law of a Member State . "
+It follows from the above provisions that the current instruction of the entitled person is possible
+interpreted in accordance with the above-mentioned authorization of the operator in the environment of the operator
+and instructions can be understood as specifying specific responsibilities to a particular employee
+on the basis of which and according to which it is to carry out the processing of personal data.
+Questions - Authorized person
+1. Does the municipality / city have authorized persons (persons processing personal data)?
+• Has a municipality / city of employees (permanent employment, part - time employment)
+employment, employment agreement, civil service .....), other physical
+persons who process personal data on its behalf?
+2. Does the municipality / city have these persons instructed in accordance with Act no. 122/2013 Coll. ?
+• Are these lessons current (they correspond to real lessons as well as to the real situation
+and job description of a particular employee)?
+
+13 See
+
+Art. 38 of the Regulation.
+
+Page 7
+
+• If the instructions of the authorized persons are prepared in accordance with Act no. 122/2013 Z.
+from. the city / municipality is obliged to check and supplement them in its environment
+and update them in the context of the forthcoming Act no. 18/2018 Coll. and regulations.
+• If the instructions are not up-to-date and there are errors, it is better to re-write them
+(in terms of content it can be partially taken over from the instruction according to Act No. 122/2013 Coll. 14 )
+already in the context of new legislation and call them, for example, “Authorization of the
+persons ’.
+3. Specific authorizations must be made known to the specific authorized persons,
+employees processing personal data on behalf of the controller and to obtain evidence
+that they are aware of their responsibilities, for example by signing the authorization
+it will be clear that the employee in the conditions of the operator (municipality / city)
+acquainted with his duties in the context of personal data processing and them as well
+he understood.
+4. The elaborated credentials must be kept by the operator (on the premises of the municipality,
+cities - for example with the responsible person), are not sent to the office.
+5. If the employee's assignment changes or his job description changes and thus changes
+also the area in which it processes personal data requires authorization, as has been the case so far
+instruction, updated at a given specific time (in the form of an addendum in the necessary section
+amend).
+
+7
+
+14
+
+https://dataprotection.gov.sk/uoou/sk/content/vzory-pouceni-opravnenej-osoby-0
+
+Page 8
+
+SECURITY - MAPPING
+The regulation and the law no longer work with the term " security project " nor do they specify it strictly
+specific security measures and titles of security documents as was the case under
+Act no. 122/2013 Coll. The regulation and the law do not strictly stipulate the documentation concerning
+security in the context of the fact that the controller processes sensitive personal data
+via a computer connected to a publicly accessible network MUST be developed
+to the given information system security project, as before.
+Both the regulation and the law are more general in describing security measures. Security is
+devoted in particular to Art. 24 and 32 of the Regulation, which only state that the operator
+and the intermediary are obliged to adequately protect and accept personal data for their protection
+appropriate security measures, such as pseudonymisation or encryption; or
+they may also demonstrate the consistency of the processing by acceding to the approved code
+behavior, etc.
+However, within the framework of security, a parameter is created that needs to be assessed, which law no.
+122/2013 Coll. did not know, the point is that according to Art. 32 par. 1 “ Operator and intermediary
+in the light of the latest knowledge, the cost of implementing the measures and the nature, extent,
+the context and purposes of the processing, as well as the risks of varying probabilities and severity for
+rights and freedoms of natural persons, appropriate technical and organizational measures to ensure
+a level of safety commensurate with that risk , '. Safety assessment and accepted
+security measures with regard to the rights and freedoms of individuals have not yet been
+necessary, from now on yes.
+
+8
+
+Questions - safety documentation
+1. The municipality / city has a security project developed and updated at that time, or
+introduced and updated security measures? If so, they need to be checked
+topicality, if the municipality / city identifies a deficiency, it is necessary to deal with it.
+2. It is necessary to identify the rights and freedoms of natural persons to the municipality / city as
+the operator could assess whether the processing operation could take place
+to their endangerment, or even to the occurrence of property or non-property damage to the affected persons
+persons ( an example of the fundamental rights and freedoms of the persons concerned is the right to freedom of expression,
+right to protection of personal data, right to letter secrecy, right to
+life, right to religion, etc. ) .
+3. It is necessary for the operator (municipality / city) to identify in their environment
+threats which may cause harm to the rights and freedoms of the persons concerned and these
+described and took appropriate action against them ;
+• external attacks (= THREAT) - (specific form of THREAT >> eg: abuse
+access to the PC on which personal data are processed (>> INJURY: for example, obtaining
+knowledge that the person is a debtor of the municipality, a non-payer, so there was a violation of the right to
+protection of personal data and, where appropriate, tax secrecy and possibly disclosure
+financial aspects of the data subject, data leakage) >> resulting
+security measure, for example: keeping records of individual accesses
+
+Page 9
+
+authorized persons of the operator at least in the most important and sensitive
+agendas / voluntary logging + correct setting of access rights
+and checking this setting ;
+In view of the above new parameter for assessing the safety measures adopted
+measures - the rights and freedoms of the persons concerned, the security needs to be updated
+measures.
+
+DOCUMENTATION - RECORDS OF PROCESSING ACTIVITIES
+Previously used records (registration sheets), information system notifications and applications
+on special registrations (special registration decisions), which were mainly formal
+evidence of a personal data information system, two of which were sent to the Office,
+they disappear.
+Their "replacement", another form of keeping records of purposes , no longer about information systems
+personal data, the so-called records of processing activities according to Art. 30 of the Regulation.
+These will have to be managed by both the operator and the intermediary. Records have their
+precise content definition in the regulation. They are not sent to the office.
+In part, the content can be based on today's records or notices
+information systems.
+
+9
+
+Questions - documentation - records of processing activities
+1. The municipality / city has at that time prepared registration sheets, notifications, or approved
+special registrations? In terms of content, it is possible to use information from these documents and these
+to be added to the content structure of records according to Art. 30 of the Regulation.
+2. The Office shall publish on its website a model record of processing activities,
+the municipality / city can use one or create your own.
+
+The material is not legally binding, it is only of a recommendatory nature as everyone's environment
+operator or intermediary is unique and requires consideration of specific
+differences.
+
+

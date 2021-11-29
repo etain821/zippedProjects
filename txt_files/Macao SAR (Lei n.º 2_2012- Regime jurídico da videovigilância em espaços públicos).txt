@@ -1,0 +1,1183 @@
+Page 1
+
+N.º 12 — 19-3-2012
+
+BOLETIM OFICIAL DA REGIÃO ADMINISTRATIVA ESPECIAL DE MACAU — I SÉRIE
+
+219
+
+REGIÃO ADMINISTRATIVA ESPECIAL
+DE MACAU
+
+Macao Special Administrative Region
+
+REGIÃO ADMINISTRATIVA ESPECIAL
+DE MACAU
+
+Macao Special Administrative Region
+Law No. 2/2012
+
+Lei n.º 2/2012
+
+Legal system for video surveillance in public places
+
+Regime jurídico da videovigilância em espaços públicos
+
+A Assembleia
+Legislativa decreta,
+The Legislative Council in accordance with Article 71 (1) of the Basic Law of the Macao
+Special Administrative
+Region nos termos da alínea 1) do
+artigo 71.º da Lei Básica da Região Administrativa Especial de
+Item, the formulation of this law.
+Macau, para valer como lei, o seguinte:
+
+CAPÍTULO I
+
+Chapter One
+
+Disposições gerais
+
+General provisions
+
+Artigo 1.º
+Article 1
+Objecto
+Subject
+A presente lei regula a utilização de sistemas de videovigilânemstatus
+espaços
+públicos
+forças
+This law covers the security forces of the Macao Special Administrative Region withciathe
+of the
+police pelas
+authority
+ande serviços de segurança da
+Região Administrativa Especial de Macau, adiante designada
+The security department makes regulations on the use of video surveillance systems in public places.
+por RAEM, enquanto dotadas de autoridade de polícia.
+
+Artigo 2.º
+
+Article 2
+
+Âmbito de aplicação
+
+Scope of application
+
+1. A utilização de sistemas de videovigilância destina-se ex1. The purpose of using the video surveillance system is only to ensure social security and public
+clusivamente a assegurar a segurança e ordem públicas, nomeaOrder, especially crime prevention, and auxiliary criminal investigations.
+
+damente prevenir a prática de crimes, ea auxiliar a investigação
+criminal.
+
+2. When applying this law, especially matters concerning the processing and protection of personal data
+2. A aplicação da presente lei, nomeadamente, o tratamento e
+Appropriate, should abide by the system established by Law No. 8/2005, and respect the privacy
+of private
+lifepessoais, deve observar o regime estabeleciprotecção
+de dados
+do na Lei n.º 8/2005, e respeitar a reserva da intimidade da vida
+Rights and the basic provisions of the Basic Law of the Macao Special Administrative Region and other applicable laws
+privada, bem como os demais direitos, liberdades e garantias
+Rights, freedoms and protection.
+fundamentais estabelecidos na Lei Básica da RAEM e demais
+legislação aplicável.
+
+Artigo 3.º
+
+Article 3
+
+Definições
+
+definition
+
+1. In order to apply the provisions of this law, the following terms have the meanings:
+
+1. Para efeitos da presente lei, entende-se por:
+
+1) «Sistema de videovigilância»: a recolha e tratamento de
+(1) "Video surveillance system": refers to the collection, processing and utilization ofimagens
+fixed video
+e sons captados em tempo real por sistemas de vídeo
+e de fotografia em circuito fechado, através de câmaras fixas ou
+Video camera or other similar systems or technical means, using closed-circuit video and photography systems
+através de qualquer outro sistema ou meio técnico análogo;
+Real-time recorded images and sounds;
+2) «Espaços públicos»: os locais, as vias públicas, os estabelecimentos
+e equipamentos
+públicos pertencentes ou afectos à
+(2) "Public places": belong to the Macao Special Administrative Region or Macao Special
+Administrative
+Region
+RAEM ou às outras pessoas colectivas públicas da RAEM ou
+Owned or used by other public legal persons in the district, or the main supply that is managed and responsible by such entities
+cuja gestão e responsabilidade esteja a cargo destas e que estão
+Places, public roads, public places and equipment used by the public.
+
+destinados predominantemente ao uso da população.
+
+Page 2
+Bulletin of the Macao Special Administrative Region-Group One Issue 12-March 19, 2012
+
+220
+
+2. In order to apply the provisions of this law, the
+
+2. São aplicáveis ​para os fins da presente lei, as definições
+constantes do artigo 4.º da Lei n.º 8/2005, com as necessárias
+
+The definition contained in Article 4 of Law No. 8/2005.
+
+adaptações.
+
+Artigo 4.º
+Article 4
+
+Princípios gerais
+
+General principles
+A utilização de sistemas de videovigilância obedece aos seguintes princípios gerais:
+The use of video surveillance systems must comply with the following general principles:
+1) Princípio da legalidade, segundo o qual a recolha e tratamentosystem
+das imagens e sons captados pelo sistema de videovigi(1) Principle of legality: collect and process the videos recorded by the video surveillance
+lância devem ser efectuados dentro dos limites fixados na preImages and sounds shall comply with the provisions of this law, Law No. 8/2005 and other applicable laws
+sente lei, na Lei n.º 8/2005 e na demais legislação aplicável;
+limits;
+2) Princípio da exclusividade, segundo o qual a videovigilância só é admissível para os fins previstos na presente lei;
+(2) The principle of speciality: video surveillance can only be used for the purposes specified in this law
+3) Princípio da proporcionalidade, segundo o qual o recurso à
+
+of;
+
+videovigilância pressupõe a ponderação entre as exigências da
+daof
+segurança
+e ordem
+(3) Principle of moderation: To conduct video surveillance, we must first measure themanutenção
+maintenance
+public order
+and públicas, nomeadamente a
+prevenção da prática de crimes, ea protecção do direito à reserThe need for public order, especially the need for crime prevention, and the need for privacy in private life
+va da intimidade da vida privada e de outros direitos fundamenProtection of private rights and other basic rights.
+
+tais.
+
+Artigo 5.º
+The fifth
+
+Finalidades da videovigilância
+
+The purpose of video surveillance
+Só é permitida a utilização de sistemas de videovigilância
+para os seguintes fins:
+The video surveillance system can only be used for the following purposes:
+
+1) Protecção de edifícios públicos e instalações de interesse
+
+público, mesmo quando a sua exploração esteja concessionada a
+(1) Protect public buildings and public welfare facilities, even if their operations have been awarded to private individuals
+entidades privadas;
+The same is true for entities;
+2) Protecção de edifícios classificados como património histórico ou cultural;
+
+(2) Protect buildings rated as historical or cultural heritage;
+
+3) Protecção da segurança de pessoas e bens, públicos ou pri(3) Protecting personal safety and the safety of public or private property, as well as vados, ea prevenção da prática de crimes em locais onde exista
+um risco razoável para a sua ocorrência, nomeadamente:
+
+Prevent crime in locations with considerable crime risk, especially the following:
+
+(1) Em locais de detenção ou de cumprimento de medidas
+(1) The place of detention or the place where deprivation of liberty measures are implemented;
+privativas de liberdade;
+(2) Ports of the Macao Special Administrative Region and any external contact points; (2) Nos postos fronteiriços e quaisquer locais de contacto com
+o exterior da RAEM;
+(3) Port and airport facilities, as well as railway and road public transportation facilities;
+(3) Nas instalações portuárias e aeroportuárias, e nos serviços
+de transporte público, ferroviário e rodoviário;
+(4) Prevent road accidents and ensure the safety of people and property on the road;
+4) Prevenção e segurança rodoviária de pessoas e bens;
+(5) Protect the access and evacuation routes of the locations specified in (1) to (3)
+5) Protecção de caminhos de acesso e de evacuação dos locais
+path.
+
+referidos nas alíneas 1) a 3).
+
+Artigo 6.º
+Article 6
+
+Limites à videovigilância
+
+Limitations of video surveillance
+1. A recolha e tratamento de imagens e sons devem limitar-se
+ao estritamente necessário às finalidades a que se destinam nos
+1. The collection and processing of images and sounds should be limited to statutorytermos
+purposes.
+da lei.
+
+Page 3
+N.º 12 — 19-3-2012
+
+BOLETIM OFICIAL DA REGIÃO ADMINISTRATIVA ESPECIAL DE MACAU — I SÉRIE
+
+221
+
+2. The security forces and security departments shall take necessary measures to destroy
+2. As forças e serviços de segurança devem adoptar as providências necessárias à eliminação dos registos e dos dados pesRecords and personal data contained in the records that provide statutory purposes or do not help achieve those purposes.
+soais deles constantes que se revelem excessivos ou desnecessários para a prossecução dos fins legalmente previstos.
+3. The security forces and security departments have the right to inspect the use of identification devices or other knowledge
+3. As forças e serviços de segurança têm direito a aceder,
+Vehicle data contained in information systems that are not technically specific and used fordesde
+entryque
+andestes
+exit sejam
+controlindispensáveis
+at specific locations,
+​a fins de investigação em
+However, only those materials are necessary for the investigation of criminal proceedings.processo penal, aos dados relativos a veículos constantes dos
+sistemas de informação assentes no uso de identificadores ou
+outros meios técnicos de identificação para efeitos de controlo
+de acesso a determinados locais.
+Article 7
+Prohibit
+
+Artigo 7.º
+Proibições
+
+1. It is forbidden to install any equipment in areas where privacy is protected or religious etiquette is performed.
+1. É proibida a instalação de câmaras de videovigilância, com
+Video surveillance cameras with recording function or not, even if the relevant area is located
+in agravação
+public area
+ou sem
+de som, em quaisquer áreas, mesmo que situadas em espaços públicos, que sejam, pela sua natureza, destina-
+
+Fang Yiran.
+
+das a serem utilizadas no resguardo da intimidade ou de culto.
+2. Recording is prohibited, but it is important to maintain and protect people and property
+2. Éatproibida
+high risk.
+a captação de sons, salvo quando seja estritamente necessária para assegurar a defesa e protecção das pesExcept those that are actually necessary, especially in natural disasters or disasters, and endangering Macao
+soas e bens em situações de elevado risco, nomeadamente em
+In the case of special administrative regions or national security.
+situação de calamidade ou catástrofe natural, ou em situação
+atentatória da segurança da RAEM ou do Estado.
+3. If it contains images and sounds that directly and immediately infringe on personal privacy,
+or
+3. É proibida
+e ilegítima a captação de imagens e sons quando
+essa captação afecte, de forma directa e imediata, a intimidade
+
+Recording private conversations is prohibited and unfair.
+
+das pessoas, ou resulte na gravação de conversas de natureza
+privada.
+Fourth, if the video surveillance camera may include the interior of the residence and the residential building
+It is forbidden to use the images and sounds inside the Yu or its affiliates.
+
+4. É proibida a utilização de câmaras de videovigilância quando a captação de imagens e sons abranja interior de casa ou
+edifício habitado ou sua dependência.
+
+5. Video and sound accidentally collected that violate the provisions of this law shall be
+5. As imagens e sons acidentalmente captados, em violação do
+The entity responsible for processing the data is destroyed immediately.
+disposto na presente lei, devem ser imediatamente destruídos
+pela entidade responsável pelo tratamento.
+
+eighth
+
+Artigo 8.º
+
+The entity responsible for processing the data
+
+Entidade responsável pelo tratamento
+
+1. A entidade responsável pelo tratamento das imagens e sons
+1. The entity responsible for processing the images and sounds collected by the video surveillance system is
+recolhidos pelos sistemas de videovigilância é a força ou o serRefers to the security forces or security departments that have substantive jurisdiction overviço
+the de
+recording
+area;
+such
+as videomaterial na zona de captação,
+segurança
+com
+jurisdição
+salvothe
+seentity
+foremmust
+requisitados por outra entidade com competênAnd the voice is requisitioned by another entity with substantive authority on related matters,
+cia material para o efeito, a qual passa a assumir tal responsabiTake the responsibility for processing related images and sounds.
+lidade.
+2. Aos procedimentos, tratamento dos dados e responsabilida2. For procedures, data processing and responsibilities derived from the provisions of the preceding paragraph, such as this law
+de decorrentes do disposto no número anterior aplica-se o disIf there are no special provisions in the law, the provisions of Law No. 8/2005 shall apply.posto na Lei n.º 8/2005, em tudo o que não for especificamente
+previsto na presente lei.
+
+Artigo 9.º
+
+Article 9
+
+Sistemas de videovigilância
+
+Video surveillance system
+
+As forças e serviços de segurança utilizam, nos termos do
+The security forces and security departments use their own video surveillance systems
+in accordance
+withlei,
+themeios
+provisions
+of this law. próprios, e
+disposto
+na presente
+de videovigilância
+
+Page 4
+Bulletin of the Macao Special Administrative Region-Group One Issue 12-March 19, 2012
+
+222
+
+Monitoring tools, and can use or use the following video surveillance tools, but they must podem
+be reasonable
+aceder ou utilizar, sempre que se justificar e para os fins
+previstos na presente lei, meios de videovigilância:
+
+In order to achieve the purpose set by this law:
+
+1) Instalados por entidade ou entidades com responsabili(1) Dedicated or jointly responsible for the management of road, aviation, railway ordades
+shipping
+transportation
+concorrentes
+no que diz respeito à gestão do sistema de
+transportes, independentemente da respectiva natureza, nomea-
+
+Video surveillance tools installed by the entity of the input system;
+
+damente, rodoviária, aérea, ferroviária ou marítima;
+(2) The approved entity responsible for the management of public places or the management
+practices
+of public
+places
+2) Instalados
+pelas
+entidades
+concessionárias ou responsáveis
+pela gestão de espaços públicos;
+
+Video surveillance tools installed by the body;
+
+3) Instalados pelas entidades responsáveis ​pela gestão e segu(3) Responsible for the management and management of private places in accordance with the provisions of Law No. 4/2007
+rança de espaços privados, nos termos da Lei n.º 4/2007.
+Video surveillance tools installed by secure entities.
+Artigo 10.º
+Article 10
+
+Identificação electrónica de viaturas
+
+Electronic identification of vehicles
+Para efeitos de prevenção e repressão de infracções rodoviárias, nomeadamente para cumprir ou fazer cumprir normas
+To prevent and combat road violations, especially to comply with or promote compliance with
+legais de carácter penal ou contravencional, as autoridades poCriminal or minor violations of laws and regulations, police authorities can use vehicle electronic
+liciais podem
+detection
+utilizar
+and sistemas de detecção e identificação electrónica de viaturas.
+
+recognition system.
+
+Chapter two
+
+CAPÍTULO II
+
+Install video surveillance system
+
+Instalação de sistemas de videovigilância
+Artigo 11.º
+
+Article 11
+
+Autorização
+
+license
+
+1. A instalação de sistemas de videovigilância depende de
+1. To install a video surveillance system, you must obtain the Chief Executive’s hearing No. 8/2005
+autorização do Chefe do Executivo, após parecer vinculativo da
+Permission granted after the binding opinion of the public authority referred to in Law No.autoridade pública a que se refere a Lei n.º 8/2005.
+2. O parecer previsto no número anterior segue, com as devi2. Regarding the opinions stipulated in the preceding paragraph, it must be followed after appropriate cooperation
+das adaptações, o regime estabelecido na Lei n.º 8/2005.
+The system established by Law No. 8/2005.
+3. A competência prevista no n.º 1 é delegável nos termos legais.
+3. The powers stipulated in the first paragraph may be granted to others in accordance
+with the law.
+4. Compete à força ou ao serviço de segurança responsável
+4. The security force or the security department responsible for processing data has the authority to submit an application
+pelo tratamento a instrução do pedido.
+please.
+5. Da autorização devem constar, nomeadamente, os locais
+públicos sujeitos a videovigilância, as condições e limitações de
+5. The relevant permission shall specify the public places subject to video surveillance and the use system in particular
+uso do sistema, incluindo a indicação de gravação de imagem
+Conditions and restrictions, including specifying the technical characteristics of the video eand
+audio
+recording, andtécnicas
+the equipment
+used
+som,
+as características
+do equipamento
+utilizado eo
+prazo de autorização.
+
+And the permitted period.
+
+6. O prazo da autorização não deve exceder os dois anos, po6. The license period should not exceed two years, and the relevant period can be renewed.
+dendo este ser renovável, sendo o procedimento de renovação
+idêntico ao de autorização.
+
+The procedure is the same as the licensing procedure.
+
+Artigo 12.º
+
+Article 12
+
+Instrução do pedido
+
+Application document
+
+Sem prejuízo do disposto na Lei n.º 8/2005, o pedido a que se
+The application referred to in the preceding article should be accompanied by the following information, but does not affect Law No. 8/2005
+refere o artigo anterior deve ser instruído com os seguintes elementos:
+
+Application of law:
+
+1) Localização e finalidades da instalação do sistema de vi(1) The location and purpose of installing the video surveillance system, including consideration of this law
+deovigilância, incluindo a justificação do pedido, tendo em conta
+Reasonable reasons for the application after the principles stipulated in Article 4 of the Law;
+os princípios estabelecidos no artigo 4.º da presente lei;
+
+Page 5
+N.º 12 — 19-3-2012
+
+BOLETIM OFICIAL DA REGIÃO ADMINISTRATIVA ESPECIAL DE MACAU — I SÉRIE
+
+(2) Technical characteristics of the equipment used;
+
+223
+
+2) Características técnicas do equipamento utilizado;
+3) Identificação dos responsáveis ​pelo tratamento dos dados;
+
+(3) The identity data of the person responsible for processing the data;
+4) Normas internas de protecção dos dados;
+(4) Internal rules regarding the protection of data;
+
+5) Procedimentos de informação ao público sobre a existência
+do sistema;
+
+(5) Let the public be aware of the procedures for setting up a video surveillance system;
+6) Período de conservação dos dados, com respeito pelos
+princípios da adequação e da proporcionalidade em função dos
+(6) According to the purpose of collecting data, the information determined on the basis of the principle of appropriateness and moderation
+fins a que os mesmos se destinam.
+Material storage period.
+
+Artigo 13.º
+Execução
+
+Article 13
+carried out
+
+1. Para efeitos da presente lei, cabe à força ou ao serviço de
+segurança responsável pelo tratamento dos dados, no âmbito
+
+das suas competências legais, nomeadamente:
+1. In order to apply the provisions of this law, the security forces or security guards responsible for processing data
+Avaliar os riscos e as necessidades de controlo dos locais
+The security department is particularly responsible for the following tasks within its statutory1)powers:
+sujeitos a videovigilância, em especial se os meios a utilizar são
+os necessários, adequados e proporcionais à finalidade pretendi(1) Assess the risk and control needs of locations subject to video surveillance, especially for
+da;
+The purpose is to evaluate whether the tools to be used are necessary, appropriate and appropriate;
+2) Adquirir os meios técnicos necessários, bem como as instalações adequadas à recolha e tratamento dos dados no estrito
+(2) Obtain the necessary technical tools and appropriate facilities to ensure collection and
+cumprimento das disposições da presente lei e da Lei n.º 8/2005;
+Strictly comply with the provisions of this law and Law No. 8/2005 when processing data;
+3) Elaborar manuais ou códigos de conduta para garantir uma
+maior eficácia nos procedimentos e para garantir que a recolha
+(3) Make a manual or code of conduct to ensure that the efficiency of the procedure eistratamento
+improved and
+dos dados registados estão em conformidade com
+as especially
+disposições
+da presente lei, em particular, com o respeito peThe collection and processing of the recorded data complies with the provisions of this law,
+compliance
+los princípios da privacidade e da protecção de dados pessoais;
+Privacy principles and personal data protection principles;
+4) Manter um inventário com as características técnicas do
+equipamento
+utilizado,
+bemrecords
+como um registo de todas as insta(4) The inventory of the technical characteristics of the equipment used by the manufacturer
+and all
+installation
+lações efectuadas, onde conste a data eo local exacto, a duração
+Record, specifying the specific installation date, location, period and purpose.
+eo fim a que se destinam.
+2. A with
+forçathe
+ou provisions
+o serviço de
+responsável
+pelo trata2. The security forces or security departments responsible for processing data shall comply
+ofsegurança
+the preceding
+paragraph
+mento dos dados deve dar conhecimento ao membro do GoverThe work performed is notified to the government members who supervise the security field.
+no que tutela a área da segurança das acções desenvolvidas nos
+termos do disposto no número anterior.
+
+third chapter
+CAPÍTULO III
+
+Use, record and save
+
+Utilização, registo e conservação
+
+Section One
+
+SECÇÃO I
+
+Use the collected data
+
+Utilização dos dados recolhidos
+
+Article 14
+
+Artigo 14.º
+
+Proof
+
+Valor probatório
+
+As imagens e sons recolhidos nos termos da presente lei poThe images and sounds collected in accordance with the provisions of this law may be
+dem constituir meios de prova em processo penal ou contravenMicro-violation can constitute evidence in each procedural stage of the proceedings.
+
+cional nas diferentes fases processuais.
+
+Page 6
+Bulletin of the Macao Special Administrative Region-Group One Issue 12-March 19, 2012
+
+224
+
+Article 15
+
+Artigo 15.º
+
+program
+
+Procedimento
+
+A força ou o serviço de segurança que, de acordo com a preSuch as the video data collected by the security forces or security departments in accordance with the provisions of this law
+sente lei, recolha gravação que indicie factos com relevância criShow that there are criminal or minor violations, the facts should be produced in the shortest
+time
+minal
+ou contravencional deve elaborar auto de notícia, no mais
+curto prazo, a fim de:
+
+Transcripts in order to:
+
+1) Remeter o auto de notícia, juntamente com o suporte das
+(1) Send the live transcripts together with the video and audio media to the procuratorate or press
+imagens e sons, ao Ministério Público ou a outra entidade competente em função da natureza do acto praticado;
+
+Other competent entities depending on the nature of the conduct;
+(2) Continue the relevant criminal procedures as a criminal police agency.
+
+2) Prosseguir a tramitação processual penal, na qualidade de
+órgão de polícia criminal.
+
+Artigo 16.º
+
+Article 16
+
+Registo de infracções rodoviárias
+
+Traffic violation record
+
+1. Para efeitos do disposto no artigo 10.º, o registo das infrac1. In order to apply the provisions of Article 10, the violations recorded in the video surveillance system
+ções às leis e regulamentos do trânsito rodoviário captado pelo
+The record of the behavior of road traffic laws and regulations has the equivalent of law enforcement
+sistema de videovigilância
+personnel’s direct
+tem o valor probatório do auto de
+The probative power of the actual transcripts of the learned violations.
+
+notícia de infracção directamente constatada por agente de autoridade.
+
+2. The records mentioned in the preceding paragraph should be authenticated by handwritten
+signatures;
+a procedure
+without
+paper
+2. O registo
+a que itseisrefere
+o número
+anterior
+deve ser autenIn the case of transformation, it is certified with a certified digital signature.
+
+ticado com assinatura autógrafa ou, em caso de desmaterialização processual, através de assinatura digital certificada.
+
+Article 17
+
+Artigo 17.º
+
+Security forces and security departments access to information
+
+Acesso aos dados pelas forças e serviços de segurança
+
+1. The security forces and security departments can be in the control room or other available
+1. As equipment
+forças e serviços de segurança acedem em tempo real ou
+diferido aos dados captados pelos sistemas de vigilância por si
+Real-time monitoring by the liaison personnel of the implementation, or by checking the relevant archives to consult the self-built monitoring
+instalados, bem como aos dados captados pelas entidades a que
+Data collected by the system, and collected by entities referred to in Article 9 (1) to (3) se referem as alíneas 1) a 3) do artigo 9.º, através de elementos
+de ligação presentes na sala de controlo ou noutras instalações
+
+data of.
+
+disponíveis, ou através da consulta dos respectivos arquivos.
+2. The contact person and the person responsible for checking the relevant archived information refer to those who have been insured
+2. Os elementos de ligação e os responsáveis ​pelo acesso em
+diferido
+são agentes
+forçaspurposes.
+e serviços de segurança devidaThe leaders or commanders of the security forces and security services appropriately authorize
+security
+for the das
+relevant
+mente credenciados para o efeito pelas direcções e comandos
+
+Security forces and security personnel.
+
+respectivos.
+Artigo 18.º
+
+Article 18
+
+Proibição da cedência de dados
+
+Prohibition of transfer
+
+É proibida a transferência de dados ou cópia das gravações
+Except for the purposes specified in Article 14 and Article 16 of this law, the transferpara
+of data
+prohibited
+alémisdos
+fins a que se referem os artigos 14.º e 16.º da presente lei.
+
+Or copy the recorded data.
+
+SECÇÃO II
+
+Section Two
+Registo, comunicação e conservação dos dados
+
+Registration, notification and preservation of data
+
+Artigo 19.º
+Article 19
+Dados objecto de registo
+Information to be registered
+1. As imagens e sons recolhidos nos termos da presente lei e
+para
+os finstonela
+previstos
+1. Images collected in accordance with the provisions of this law and for the purposes
+referred
+in this
+law são objecto de registo, devendo ser
+complementados com os demais elementos circunstanciais, noAnd the voice must be registered, and other detailed information should be included, especially the following:
+meadamente:
+(1) Location, date and time of recording;
+
+1) Local, data e hora da ocorrência;
+
+Page 7
+N.º 12 — 19-3-2012
+
+BOLETIM OFICIAL DA REGIÃO ADMINISTRATIVA ESPECIAL DE MACAU — I SÉRIE
+
+(2) Information that helps prove criminal or minor violations of the law;
+
+225
+
+2) Dados que possam subsidiar a prova da conduta violadora
+da lei, independentemente da sua natureza criminal ou contra-
+
+(3) The type of illegal act, that is, the illegal act of criminal or minor violation,
+
+vencional;
+
+And a brief description of the violation;
+
+3) Tipo de infracção, criminal ou contravencional, e indicação
+sumária das normas que se consideram violadas;
+
+(4) Identity data of law enforcement personnel or operators responsible for surveillance.
+4) Identificação do agente de autoridade ou do operador responsável pela observação.
+2. Under the circumstances specified in the first paragraph (4) of the following article, you can register the involved
+Other personal data of the person, but only for emergency rescue purposes.
+
+2. No caso previsto na alínea 4) do n.º 1 do artigo seguinte,
+podem ser registados outros dados pessoais das pessoas envolvidas, mas única e exclusivamente para efeitos de socorro e
+emergência.
+
+Article 20
+Notification information
+
+Artigo 20.º
+Comunicação dos dados
+
+1. The following entities shall be notified of the registered information:
+1. Os dados registados devem ser comunicados:
+(1) To security forces that have substantive powers or have been granted relevant powers
+1) À força ou serviço de segurança em razão das competênOr notify the security department so that it can exercise its authority;
+
+cias materiais próprias ou delegadas que lhes estão fixadas, visando o respectivo exercício;
+
+(2) In accordance with the provisions of the law or at the request of the judicial authorities, report to the judicial authorities
+2) Às autoridades judiciárias, para efeitos de procedimento
+Notification in order to carry out criminal procedures or enforce criminal sentences;
+
+criminal ou execução de sentença de natureza criminal, quando
+tal resulte da lei ou haja sido solicitado por aquelas;
+
+(3) Notify the entity responsible for road traffic management so that it can exercise the
+The powers stipulated in Law No. 3/2007 and other supplementary laws;
+
+3) À entidade com responsabilidades na gestão do trânsito ro-
+
+doviário para efeitos de execução das respectivas competências
+no âmbito da Lei n.º 3/2007 e demais legislação complementar;
+
+(4) Report to the fire department in order to improve the efficiency of emergency rescue operations.
+4) Ao Corpo de Bombeiros sempre que tal possa assegurar
+uma maior eficácia nas operações de socorro e emergência.
+2. The information notified to the entities referred to in the previous paragraph is limited to those entities’ performance of the law
+2. Às entidades referidas no número anterior apenas são coDefine the information required for the business, and the notification must comply with the security requirements stipulated in Article 22
+municados os dados estritamente necessários para assegurar o
+Pieces.
+cumprimento das respectivas obrigações legais e de acordo com
+os requisitos de segurança previstos no artigo 22.º
+3. The notification method used between the entities mentioned in the first paragraph, regardless of whether it is an electronic method
+3. Os meios de comunicação utilizados entre as entidades reOr physical carrier methods, should ensure the speed of the procedure, and should not affect
+the impact
+the involved
+feridas
+no n.º on
+1, seja
+por via electrónica ou suporte físico, devem
+assegurar a celeridade dos procedimentos a que se destinam
+
+Protection of the privacy of the people involved.
+
+sem prejuízo da preservação da privacidade das pessoas envol4. Public authorities under Law No. 8/2005 have the right to investigate
+
+vidas.
+
+4. A autoridade
+pública prevista na Lei n.º 8/2005 tem acesso,
+Read the materials notified in accordance with the provisions of this law, except for cases involving
+judicial confidentiality
+sempre que solicitar, às comunicações efectuadas no âmbito da
+outer.
+presente lei, salvaguardando-se os casos onde há segredo de justiça.
+
+Article 21
+Artigo 21.º
+Save data
+Conservação dos dados
+1. Os dados
+recolhidos,
+nos termos da presente lei, são conser1. The data collected in accordance with the provisions of this law shall be kept for a maximum
+period
+of 60 days.
+But it does not affect the application of the provisions of the following paragraph.
+
+vados pelo prazo máximo de 60 dias, sem prejuízo do disposto
+no número seguinte.
+
+2. If the collected information constitutes evidence in accordance with Article 14 and Article
+2. Os dados
+16 recolhidos que constituam elemento de prova
+nos termos dos artigos 14.º e 16.º são conservados até ao termo
+Data, which will be kept until the end of the relevant procedure, and must be 30 days after the end of the procedure
+do respectivo procedimento, findo o qual são obrigatoriamente
+Destroyed within.
+destruídos no prazo de 30 dias.
+
+Page 8
+Bulletin of the Macao Special Administrative Region-Group One Issue 12-March 19, 2012
+
+226
+
+3. The following factors should be considered when determining the data retention time:
+3. Na determinação do tempo de conservação dos dados deve
+ponderar-se:
+(1) The end of the assisted investigation;
+
+1) A conclusão de uma investigação a qual possam auxiliar;
+
+(2) Any pending administrative or judicial decision;
+
+2) Uma qualquer decisão administrativa ou judicial pendente;
+
+prescrição
+ou, por qualquer forma, a extinção do proce(3) The statute of limitations for criminal procedures or minor violations of procedures,3)orAsuch
+procedures
+dimento criminal ou contravencional;
+Any termination of the sequence;
+4) O cumprimento das penas aplicadas e demais sanções administrativas
+(4) Execution of penalties imposed by the department and other administrative or minor
+violationsou contravencionais.
+Row.
+CAPÍTULO IV
+Deveres e direitos
+
+Chapter Four
+Duties and rights
+
+Artigo 22.º
+Segurança e controlo da informação
+
+Article 22
+
+Sem prejuízo do disposto na Lei n.º 8/2005, a comunicação ou
+
+Information security and control
+
+qualquer forma de interconexão de dados previstas na presente
+lei, deve assegurar a eficácia ea celeridade dos procedimentos
+
+e garantir
+a segurança,
+a integridade ea confidencialidade da
+Information notification or any form of data interconnection required by this law shall
+ensure that
+the process
+informação transmitida.
+The efficiency and speed of the program, as well as the security, integrity and confidentiality of the transmitted information
+Sex, and does not affect the application of Law No. 8/2005.
+Artigo 23.º
+Dever de sigilo
+Article 23
+1. Os operadores dos dados recolhidos no âmbito da presente
+Confidentiality
+
+lei, em razão das suas funções, estão obrigados ao dever de sigilo profissional, sob pena de procedimento disciplinar e criminal,
+
+1. The operators of the data collected in accordance with the provisions of this law, based
+onapós
+theiroduties
+mesmo
+termo daquelas funções.
+Must perform professional confidentiality obligations, even after the termination of the job, otherwise it will be filed
+2. As demais pessoas que tenham acesso aos dados recolhidos
+ou com eles tiverem contacto estão igualmente obrigadas ao
+
+Disciplinary and criminal procedures.
+
+dever de sigilo, não podendo fazer uso ou revelar a terceiro ou,
+qualquer outra
+forma, divulgar estes dados, ou do seu co2. Others who have access or access to the collected information must also fulfill thepor
+confidentiality
+obligations
+nhecimento dar qualquer publicidade, em proveito próprio ou
+Services, not to use, disclose, or disseminate in any way for the benefit of oneself or a third party
+de terceiro, sob pena de procedimento criminal.
+Or make public the information known to them, otherwise criminal proceedings will be instituted against them.
+Artigo 24.º
+Segredo de justiça
+
+Article 24
+Judicial secrecy
+
+O segredo de justiça, nos termos em que é regulado nas leis
+
+processuais penais, prevalece sobre o regime de intercomunicaThe provisions on judicial confidentiality in the criminal procedure law are superior ção
+to the
+information contained
+law. lei.
+e interconexão
+constante in
+da this
+presente
+The system of intercommunication and interconnection of materials.
+Artigo 25.º
+Dever de informar
+
+Article 25
+Duty to inform
+
+1. Para efeitos da presente lei, nos locais onde estejam instalados sistemas de videovigilância é obrigatória, em local bem
+
+visível,
+a afixaçãosystem
+de aviso
+cujo conteúdo assegure o co1. In order to apply the provisions of this law, it must be located in a place where a video
+surveillance
+is público
+installed.
+nhecimento da utilização do sistema e da entidade responsável
+Post a notice in a conspicuous place to ensure that the public is aware of the use of the system and is responsible for handling
+pelo tratamento dos dados.
+The entity of the data.
+2. O aviso referido no número anterior deve ser redigido nas
+línguas chinesa e portuguesa, devendo, igualmente, ser acom2. The announcement referred to in the preceding paragraph should have Chinese and Portuguese texts and appropriate graphics, such as
+panhado de simbologia adequada e pode estar traduzido em
+It can be translated into English with reasonable reasons.
+língua inglesa quando tal se justifique.
+
+Page 9
+N.º 12 — 19-3-2012
+
+BOLETIM OFICIAL DA REGIÃO ADMINISTRATIVA ESPECIAL DE MACAU — I SÉRIE
+
+227
+
+3. The announcement shall be posted by the entity operating the video surveillance system.
+3. A afixação de aviso público é da responsabilidade da entidade que opera o sistema de videovigilância.
+
+Article 26
+
+Artigo 26.º
+
+Information for statistical or teaching purposes
+
+Informação para fins estatísticos ou didácticos
+
+Os dados objecto de tratamento no âmbito da presente lei
+The data processed in accordance with the provisions of this law, as long as it does not involve personally identifiable data or
+podem ser usados ​para efeitos estatísticos ou didácticos, desde
+que daí
+resulte nem a identificação das pessoas nem a dos
+The identification data of vehicles or other properties that can identify individuals can be used
+for não
+statistics
+veículos ou outros bens que permitam essa identificação.
+Or teaching purpose.
+
+Artigo 27.º
+Article 27
+
+Direitos dos interessados
+
+Stakeholder's rights
+1. Sem prejuízo do disposto no número seguinte e demais
+legislação aplicável, são assegurados a todos aqueles que figurarem
+nas gravações
+obtidas
+de acordoofcom
+presente lei, os
+1. All persons who have been filmed have the right to view and delete records received
+in accordance
+with
+the provisions
+this alaw.
+direitos de acesso e de eliminação.
+The collected video data does not affect the application of the following provisions and other applicable laws.
+2. O exercício dos direitos previstos no número anterior pode
+2. The exercise of the rights set out in the preceding paragraph may pose a danger orser
+impact
+on public security
+fundamentadamente
+negado quando seja susceptível de
+constituir
+Affect the rights and freedoms of third parties, or hinder the normality of judicial procedures
+of any perigo
+nature para a segurança pública, ou na medida em
+que afectar o exercício de direitos e liberdades de terceiros, ou
+After the reasons are explained, the right can be refused to be exercised.
+ainda quando esse exercício prejudique a normal tramitação de
+processo judicial independentemente da sua natureza.
+3. Directly or through public authorities stipulated in Law No. 8/2005,
+Osfirst
+direitos
+referidos no n.º 1 podem ser accionados junto
+The entity responsible for processing the data requests the exercise of the rights referred to in3.the
+paragraph.
+da entidade responsável pelo tratamento dos dados, directamente ou através da autoridade pública prevista na Lei n.º 8/2005.
+
+chapter Five
+Penalty system
+
+CAPÍTULO V
+Regime sancionatório
+
+Article 28
+Artigo 28.º
+
+Punishment
+
+Sanções
+Violation of this law, in accordance with the general rules of discipline and law No. 8/2005
+Sem prejuízo da responsabilidade criminal, a violação da
+presente
+lei é sancionada de acordo com o estatuto disciplinar a
+The punishment system stipulated in Articles 30 to 42 of the Law shall be punished without
+affecting
+que o agente se encontre sujeito e de acordo com o regime sanIts criminal responsibility.
+cionatório previsto nos artigos 30.º a 42.º da Lei n.º 8/2005.
+
+Chapter Six
+
+CAPÍTULO VI
+
+Final rule
+
+Disposições finais
+
+Artigo 29.º
+
+Article 29
+
+Disposição transitória
+
+Transitional provisions
+
+As forças e serviços de segurança da RAEM dispõem de um
+prazo de
+90 be
+dias
+após atoentrada
+em vigor
+The security forces and security departments of the Macao Special Administrative Region
+shall
+subject
+the effective
+datedaofpresente
+this lawlei para
+adaptar os sistemas de videovigilância, pelos quais são responMake the video surveillance system responsible for complying with the provisions of this law within 90 days, and handle
+sáveis, às disposições da presente lei e para proceder às formaliThe procedures stipulated in Article 11 and Article 12.
+
+dades previstas nos artigos 11.º e 12.º
+
+Page 10
+Bulletin of the Macao Special Administrative Region-Group One Issue 12-March 19, 2012
+
+228
+
+Article 30
+
+Artigo 30.º
+
+Take effect
+
+Entrada em vigor
+
+This law shall take effect 30 days after its promulgation.
+
+A presente lei entra em vigor 30 dias após a data da sua publicação.
+
+Adopted on February 28, 2012.
+Aprovada em 28 de Fevereiro de 2012.
+President Liu Zhuohua of the Legislative Council
+O Presidente da Assembleia Legislativa, Lau Cheok Va.
+Signed on March 12, 2012.
+
+Assinada em 12 de Março de 2012.
+
+The order is announced.
+
+Publique-se.
+Chief Executive Cui Sai On
+
+O Chefe do Executivo, Chui Sai On.
+
+REGIÃO ADMINISTRATIVA ESPECIAL
+DE MACAU
+
+Macao Special Administrative Region
+Law No. 3/2012
+
+Lei n.º 3/2012
+
+The Framework of Teaching Staff in Non-Higher Education Private Schools
+
+Quadro geral do pessoal docente das escolas
+particulares do ensino não superior
+
+The Legislative Council in accordance with Article 71 (1) of the Basic Law of the Macao Special Administrative Region
+A Assembleia Legislativa decreta, nos termos da alínea 1) do
+Item, the formulation of this law.
+artigo 71.º da Lei Básica da Região Administrativa Especial de
+Macau, para valer como lei, o seguinte:
+
+Chapter One
+
+CAPÍTULO I
+
+General provisions
+
+Disposições gerais
+Artigo 1.º
+
+Article 1
+Objecto e finalidades
+Subject and purpose
+1. A presente lei define o quadro geral do pessoal docente
+escolas
+particulares
+do regime
+escolar
+local do ensino não
+1. This law stipulates that the local education system for non-higher education in thedas
+Macao
+Special
+Administrative
+Region
+is private
+superior da Região Administrativa Especial de Macau, adiante
+The framework of the school teaching staff system.
+designada por RAEM.
+2. The purpose of this law is to improve the professional quality and professional protection
+of teaching
+staffcomo finalidade aumentar a qualidade
+2. A presente
+lei tem
+do pessoal docente e as respectivas garantias profissionais, de
+In order to establish an excellent teaching staff and ensure non-higher education private education
+forma a criar um corpo docente de excelência ea assegurar a
+The educational effectiveness of the school.
+eficácia da educação nas escolas particulares do ensino não superior.
+
+Article 2
+
+Artigo 2.º
+
+definition
+
+Definições
+
+In order to apply the provisions of this law, the meanings of the following words are: Para os efeitos do disposto na presente lei, entende-se por:
+1) «Pessoal docente», os directores, outros quadros médios e
+(1) "Teaching staff" refers to the principal and other middle and high-level managerssuperiores
+of the school
+de gestão da escola e os docentes;
+Staff and teachers;
+
+2) «Director», o pessoal designado nos termos da lei para
+
+exercer as funções de direcção, orientação e coordenação da
+(2) "Principals" refer to the leaders appointed to carry out educational activities in accordance with the law,
+acção educativa, sendo responsável pelo desenvolvimento da
+Personnel who direct and coordinate duties, and are fully responsible for the development escola
+and management
+e pela sua gestão;
+of the school;
+
+

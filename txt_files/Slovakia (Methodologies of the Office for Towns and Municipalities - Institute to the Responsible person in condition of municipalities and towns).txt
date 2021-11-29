@@ -1,0 +1,295 @@
+Page 1
+
+PERSONAL DATA PROTECTION OFFICE OF THE SLOVAK REPUBLIC
+Hraničná 12, 820 07 Bratislava 27
+_______________________________________________________________________________________________________________
+
+no. 00204/2018-Op-1
+
+Methodological guideline no. 1/2018
+Institute of the responsible person in the conditions of municipalities and cities
+
+According to § 81 par. 2 letter d) of Act no. 18/2018 Coll. Office for Personal Data Protection
+Of the Slovak Republic (hereinafter referred to as the "Office") issues this methodological guideline.
+
+INTRODUCTION
+The institute of the responsible person in the conditions of the Slovak Republic is not new
+institute. The legal regulation valid and effective until 24.05.2018 is the authorization of the responsible person
+voluntary. According to the new legislation, which will apply from 25.05.2018, it will be
+for municipalities and cities, the obligation to entrust the responsible person with the performance of protection supervision
+personal data. The reason for issuing this methodological guideline is changes that
+Regulation (EU) 2016/679 and Act no. 18/2018 Coll. (hereinafter "GDPR" and "the law")
+and which will also affect municipalities and cities. This methodological guideline addresses in particular issues such as
+organizationally ensure the fulfillment of obligations related to the designation of the responsible person
+in the conditions of municipalities and cities.
+1 LEGISLATION
+Municipalities and cities must be understood as a public authority within the meaning of Art. 37 par. 1 letter
+a) GDPR resp. § 44 par. 1 letter a) of the Act.
+Conditions for determining the responsible person as well as his role and duties of the municipality / city in
+relation to the responsible person is established by Art. 37 - Art. 39 GDPR resp. § 44 - § 46 of the Act.
+1.1. CONDITIONS TO BE MET BY THE RESPONSIBLE PERSON
+The responsible person must first and foremost have professional qualities . Under these
+can be understood for example:
+- sufficient knowledge and experience in the field of personal data protection,
+- expertise in law - especially in GDPR, law and other regulations related to
+protection of personal data,
+- knowledge of the functioning of public administration as such,
+- practical knowledge of the organization, operation and internal regulations of the municipality / city,
+
+Page 2
+
+- good knowledge of processing activities, processing operations performed
+as well as systems, applications, means of processing and the needs of the municipality / city
+concerning the protection of personal data,
+- ability to perform the tasks of a responsible person, in particular providing advice,
+including advice on impact assessment, monitoring of city / municipality compliance
+with regulation, risk management.
+The level of expertise is not precisely defined, it should be proportionate to the sensitivity,
+complexity and amount of data that the municipality / city processes.
+The municipality / city is responsible for ensuring that the responsible person mentioned above
+meets the preconditions and these can be demonstrated, for example:
+- evidence of the highest level of education attained in terms of expertise, focus,
+- various certificates or attestations of completion of courses or training,
+- documents proving that person's experience in the field of personal data protection
+(eg recommendation from a previous employer, ...).
+1.2 STATUS AND TASKS OF THE RESPONSIBLE PERSON
+In the context of the new legislation, the responsible person has the status of:
+- assistant and consultant in the system of personal data protection,
+- the contact person for the Office and the persons concerned whose personal data are being processed
+(eg villagers).
+In order for it to have this status, it needs to be truly available - it must
+be, if necessary, realistically reachable both for the municipality / city and for the persons concerned and the office.
+If the responsible person performs in addition to tasks related to personal data protection, another
+agenda, it must be ensured that it actually "pursues" all its agenda.
+The minimum tasks of the responsible person under the new legislation include in particular 1 :
+• monitoring compliance with the GDPR and the law - helps the municipality / city to comply,
+therefore, for this purpose, it collects information to determine the processing activities of the municipality / city,
+analyzes and verifies their compliance and provides advice and recommendations,
+• Providing on-demand advice on protection impact assessments
+data ,
+• cooperation with the Office ,
+• other tasks - e.g. keeping records of processing activities which
+facilitate the monitoring of compliance with the GDPR resp. by law.
+Other tasks and responsibilities that the municipality / city entrusts to the responsible person must not lead
+to a conflict of interest . In practice, this means that the responsible person may not be in the municipality / city
+to hold a position from which it would determine the purposes and means of the processing of personal data, such as
+
+For a more detailed description of the individual tasks of the responsible person, we recommend see WP Guideline 29
+concerning the responsible persons which the Office has published on its website also in Slovak here:
+1
+
+https://www.dataprotection.gov.sk/uoou/sites/default/files/usmernenia_tykajuce_sa_zodpovednych_osob.pdf
+
+2
+
+Page 3
+
+e.g. the function of mayor / mayor, vice-mayor / vice-mayor or other, if filled
+condition for deciding on the purposes and means of personal data processing (purpose
+and the means of processing are determined by the operator, resp. person authorized to act on behalf of
+operator). In order to avoid conflicts of interest, the Office recommends specifying in internal
+regulations of the municipality / city positions that are incompatible with the function of the responsible person.
+The municipality / city must ensure the independent performance of tasks by a responsible person. This
+can be ensured, for example, by:
+- the responsible person will not receive any instructions
+• how does it have its tasks according to the GDPR resp. exercise the law,
+• what result is to be achieved in compliance monitoring,
+• how to resolve the complaint of the data subject, or
+• how to consult the Office in matters of personal data protection, etc.
+• The responsible person must not be dismissed or otherwise penalized by the operator
+performance of tasks according to GDPR resp. of the law,
+• The responsible person will provide all reports, information and proposals related to the performance of their
+tasks directly to the person authorized to act on behalf of the operator (usually
+mayor).
+The Authority recommends documenting any operator opinion deviating
+from the recommendations of the responsible person and justify this deviation, as the responsibility for compliance
+borne by the operator.
+The responsible person should have a direct obligation to notify
+the mayor so that he can inform him of any findings
+and recommendations regarding the protection of personal data. This must be ensured without
+regardless of whether the responsible person is an employee of the municipality / city or an external entity.
+The Office emphasizes that by appointing a responsible person, the municipality / city does not get rid of its own
+responsibility for the processing of personal data in accordance with the law. if
+the operator entrusts the responsible person, who is not sufficiently competent, has not checked
+her expertise before her appointment, for possible failure to perform tasks (erroneous
+opinion, incorrect recommendation e.g. in the impact assessment), is responsible
+operator (municipality / city) in full, as it was the duty to take care of professional competence
+(principle of operator responsibility); the responsible person is therefore not personally liable for
+any non-compliance, the operator is responsible for the breach of the GDPR and the law, however
+he may claim from the liable person the damage caused to him, within the framework of
+employment law or similar relations resp. on the basis of the contract he has with this
+by a responsible person closed in the case of an external entity.
+1.3 OBLIGATIONS OF MUNICIPALITIES AND PLACES IN RELATION TO THE RESPONSIBLE PERSON
+The municipality / city must ensure:
+
+3
+
+Page 4
+
+(a) the involvement of the responsible person in a proper and timely manner in all matters
+with the protection of personal data, for example:
+• ensuring the presence of a responsible person in cases where they are admitted
+decisions with an impact on the protection of personal data so as to provide appropriate
+counseling (municipality / city should have a possible deviation from the opinion of the responsible person
+substantiated by reasons),
+• during immediate consultation in case of breach of personal data protection, etc.
+b) support of the responsible person in performing his tasks according to the GDPR resp. of the law,
+for example in the form of :
+• provision of resources - finances, premises, equipment or facilities (eg computer)
+and sufficient time, space to carry out its tasks properly and in a timely manner; in larger
+municipalities / cities as well as staff, if necessary to create a team around the responsible
+persons and adjust the structure and tasks of individual team members,
+• providing access to personal data - to monitor compliance with the GDPR
+and the law,
+• continuous training of the responsible person - constantly increasing his / her level
+expertise in the field through its participation in trainings, courses or
+seminars, also due to the fact that the responsible person subsequently retrains as well
+employees of the municipality / city who work with personal data, etc.
+(c) publication of the contact details of the responsible person - on the website (if any)
+established) and the official bulletin board, possibly also in municipal / city newspapers, etc.
+• such information may be the e-mail address or telephone number at which it is located
+the responsible person can be reached. The e-mail address can be e.g. in shape
+responsible@personal name/mesta.sk, it is therefore not necessary to indicate the name
+and the surname of the responsible person; the phone number can be a business mobile phone or
+a line set up for this purpose. Contact information can also be correspondent
+address e.g. municipal / municipal authority (or legal person responsible for
+person), if the responsible person has an office here, or its door number, etc.
+d) notification of the contact details of the responsible person of the Office - the Office shall publish for this purpose
+a form for reporting the data in question on its website.
+2 WHO CAN BE A RESPONSIBLE PERSON AND HOW TO DETERMINE IT
+The responsible person can be a natural person as well as a legal entity. The Office recommends
+in the case of the designation of a legal person as the responsible person in a contract concluded between
+municipality / city and such a legal entity to designate a specific natural person who
+will actually perform the function of the responsible person and will be reachable to the municipality / city as
+also for the Office and the persons concerned.
+
+4
+
+Page 5
+
+The responsible person can be an employee of the municipality / city or an externally cooperating
+person. One municipality / city can also have several responsible persons, e.g. responsible person
+for IT, the person responsible for human resources, etc., but each is responsible separately
+and also for the performance of their tasks in the field. There may also be a situation that multiple
+municipalities / cities share one responsible person.
+The function of responsible person can also be performed by a deputy of the municipal / city council
+council, but not by virtue of his function as a member of the council. As a member of parliament
+municipal / city council is according to § 11 par. 2 letter b) of the Act on General Establishment
+incompatible with the function of the employee of the municipality / city in which he was elected, would be the responsible person
+could be in such a municipality / city only on the basis of a service contract.
+In the conditions of municipalities / cities, we distinguish several ways of determining the responsible person:
+(a) an employee
+- on the basis of an employment contract
+• we recommend concluding for an indefinite period of time, as the responsible person should know
+internal operation and organization of the municipality / city in detail (probation clause by
+not affected),
+• must contain a confidentiality clause on personal data,
+• if the performance of the function of the responsible person is not the only agenda of the person is appropriate
+sign a statement with the employee that the employee does not have any
+conflict of interest,
+- the function of the responsible person may be the only activity he carries out or may have
+also in charge of another agenda that is not related to the protection of personal data (in such a
+in this case, it is necessary to ensure that there is no conflict of interest),
+- he must perform the function of responsible person independently without any instructions
+your superior or the mayor / mayor directly,
+- reports directly on all its data protection findings
+to the mayor / mayor and not to his / her head within a department or division, by
+of which he is assigned if he also performs another agenda,
+- remuneration for the performance of the work of the responsible person according to the Labor Code, Act no. 553/2003
+Z. z. on the remuneration of certain employees in the performance of their duties in the public interest
+possibly other regulations,
+may not be penalized for remuneration or in any other way for
+independent performance of his duties under the GDPR and the law.
+- representation in case of absence
+• short-term absence - proceed as in the case of representation of any
+another employee, in principle no further action is required,
+• long-term absence - the municipality / city should appoint a "substitute" responsible person
+(eg temporarily appoint another employee or temporarily appoint an external employee)
+responsible person - even such "temporary" responsible persons must meet all
+the above conditions for the performance of this function).
+
+5
+
+Page 6
+
+b) an externally cooperating person
+- has a non-employment relationship with the municipality / city,
+- it can be a natural person or a legal entity that concludes a contract with the municipality / city
+on the provision of the service, which should include in particular:
+• identification of the person or persons who will perform the tasks of the responsible person,
+• in the case of several persons, the designation of one specific person who will be the principal
+the contact person for the persons concerned and the Office,
+• an indication of the individual tasks to be performed by the responsible person,
+• an agreement guaranteeing the independence of the responsible person,
+such as the obligation of the responsible person to report a conflict of interest, exhaustive
+calculation of the reasons for which the contract may be terminated and the person responsible
+may be a long - term failure to perform tasks, loss of ability to perform
+individual obligations)
+- the reasons must not include a disguised sanction for the independent performance of the function
+responsible person and must not create room for arbitrary untying
+cooperation with the responsible person by the municipality / city,
+• confidentiality clause on personal data and security measures
+municipalities / cities,
+- we recommend concluding the contract for an indefinite period of time, as the responsible person should know
+internal operation and organization of the municipality / city in detail,
+- conditions of remuneration and amount of remuneration - a matter of agreement of the municipality / city
+and the responsible person,
+- Representation in case of absence - the responsible person should take appropriate measures
+to ensure that individual tasks are performed continuously (for example, setting deadlines
+in which the individual tasks are to be performed under threat of sanctions).
+(c) the joint responsible person
+- Neither the GDPR nor the law excludes the possibility to designate one responsible for several municipalities / cities
+person
+- the joint responsible person must perform his tasks effectively in relation to all
+cooperating municipalities / cities,
+- methods for designating the joint responsible person:
+• responsible person of the district / regional city - responsible person
+district / county town would perform this function in smaller ones as well
+municipalities / cities belonging to its district,
+• contract concluded between the municipality / city and the responsible person - several
+municipalities / cities would independently conclude contracts with 1 responsible person,
+• contract concluded between municipalities / cities - this is a contract for the purpose of implementation
+specific task or activity and its essence is that one municipality / city will provide
+its responsible person to the other municipality / city (this may be, for example, cases of neighboring
+municipalities / cities, or also in cases where it is necessary to ensure continuity of performance
+
+6
+
+Page 7
+
+tasks of the responsible person due to his long absence and to replace him temporarily
+another responsible person),
+• contract concluded between the association of municipalities / cities and the responsible person - according to §
+20 par. 1 of the Act on Municipal Establishment, municipalities (cities) may cooperate on the basis of
+a contract concluded for the purpose of carrying out a specific task or activity, on the basis of
+agreements on the establishment of an association of municipalities (cities), the establishment or establishment of a legal
+persons under a special law. Once an association is created, that association can
+enter into a contract with a specific responsible person to perform the function
+responsible person for the municipalities / cities that created the association.
+3 PENALTIES FOR BREACH OF OBLIGATION TO IDENTIFY THE PERSON RESPONSIBLE
+For breach of the obligation to designate a responsible person as well as other related obligations
+with the institute of the responsible person threatens the municipalities resp. cities according to Art. 84 par. 4 letter a) GDPR
+(Section 104 (1) (a) of the Act) imposition of a fine of up to EUR 10,000,000, depending on
+from the circumstances of each individual case and after due regard to other facts. 2
+CONCLUSION
+The determination of the responsible person is an obligation of the municipality / city arising directly from the GDPR
+and the law. However, such a designation should not only be formal, but the person actually responsible
+must meet all the conditions set out in the GDPR resp. law and must carry out its tasks in real terms
+perform. For this purpose, the municipality / city is obliged to allow the responsible person to carry out
+these tasks and must not prevent it from doing so or otherwise obstruct its activities.
+The municipality / city may not be responsible for the fulfillment of individual tasks in any way
+sanction. The existence of a responsible person should ensure that the procedures of municipalities / cities are at
+processing of personal data in accordance with the GDPR and the law and is intended to assist it in fulfilling its
+individual responsibilities.
+Done at Bratislava, 20 March 2018
+
+Soňa Pőtheová
+President of the Office
+
+2
+
+See Art. 83 par. 2 regulations resp. § 106 par. 1 of the Act
+
+7
+
+

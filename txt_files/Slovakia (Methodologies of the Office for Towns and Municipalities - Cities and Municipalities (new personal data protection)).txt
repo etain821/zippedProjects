@@ -1,0 +1,192 @@
+Page 1
+
+SELF - GOVERNANCE AND NEW LEGISLATION
+IN THE FIELD OF PERSONAL DATA PROTECTION
+In accordance with Art. 22 par. 1 of the Constitution of the Slovak Republic „ Letter secret, secret of transported messages
+and other documents and the protection of personal data are guaranteed . ".
+In the environment of the Slovak Republic at that time, the regulation of personal data protection is regulated by Act no.
+122/2013 Coll. on Personal Data Protection (hereinafter referred to as “Act No. 122/2013 Coll.”) 1 and two decrees
+office; Decree of the Office for Personal Data Protection of the Slovak Republic no. 164/2013 Coll.
+on the scope and documentation of security measures 2 and a decree of the Office for the Protection of Personal Data
+data of the Slovak Republic no. 165/2013 Coll. laying down the details of the test
+natural person to perform the function of responsible person 3 . The above law and decrees are
+result of the process of transposition of Directive 95/46 / EC of the European Parliament and of the Council of 24
+October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of persons
+these data 4 .
+It is logical that the 1995 Directive cannot be up-to-date in all ways
+how the processing of personal data is carried out in 2018. It was only a matter of time before
+new legislation has been adopted to move the processing and protection of personal data to the third
+Millennium Development Goals and at the same time unify the processing of personal data in the European Union.
+The result of these efforts is a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU)
+
+1
+
+2016/679 of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on
+free movement of such data, repealing Directive 95/46 / EC (General Regulation
+on Data Protection) (hereinafter the “Regulation”) 5 , which provides a comprehensive framework for the protection of data
+personal data, supplemented in each Member State by partial adjustments via
+national laws on personal data protection. It will be in the environment of the Slovak legal order
+from 25.5.2018 such Act no. 18/2018 Coll. on the protection of personal data and on amendments
+of certain Acts 6 (hereinafter referred to as “Act No. 18/2018 Coll.”).
+Both the regulation and Act no. 18/2018 Coll. will enter into force on 25 May 2018 and the current Act no.
+122/2013 Coll. and his two decrees will become ineffective. In accordance with the above article
+of the Constitution of the Slovak Republic, every natural person has the right to the protection of personal data
+guaranteed, and of course this also applies if it processes personal data
+self-government in the performance of its activities, whether it is the delegated performance of state administration or the performance
+its original powers.
+
+1 https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/122/20140415
+2 https://www.slov-lex.sk/static/pdf/2013/164/ZZ_2013_164_20140501.pdf
+3 https://www.slov-lex.sk/static/pdf/2013/165/ZZ_2013_165_20130701.pdf
+4 http://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A31995L0046
+5 https://dataprotection.gov.sk/uoou/sites/default/files/nariad_2016_679_text_sk.pdf
+6 https://www.slov-lex.sk/static/pdf/2018/18/ZZ_2018_18_20180525.pdf
+
+Page 2
+
+What will this legislative change bring to local governments? How to respond to it?
+First of all, it is necessary to deal with both texts, both the regulation and Act no. 18/2018 Coll.
+acquaint. As the Regulation does not apply to the processing of personal data under
+activities which do not fall within the scope of Union law, it was also necessary to legislate for
+activities which do not fall within the scope of Union law 7 , or to regulate certain areas
+processing for which the Regulation, as a Member State, has authorized us, which has been done by adoption
+Act no. 18/2018 Coll. The regulation also reflects technological progress, so it was not appropriate to
+was Act no. 122/2013 Coll. only amended, the current solution is more appropriate when so
+national legislation on the processing of personal data, as well as European legislation, is in its own right
+essentially identical and thus does not create disharmony in the performance of obligations for the operator.
+What needs to be done?
+The basic unit of territorial self-government is the municipality. The municipality in the position of the operator processes
+personal data, in particular on the basis of special laws, in compliance with which it performs its tasks
+and part of this is the processing of personal data of its employees as well as residents or others
+natural persons.
+The legal basis on which personal data is processed is in the environment of municipalities
+in particular special laws where such consent is not required for such processing of personal data
+the person concerned (employee or resident of the municipality). Special law as a legal basis
+processing of personal data remains the same with the advent of Regulation or Act no.
+18/2018 Coll. Also for the processing of personal data on a contractual basis, ie without consent
+the person concerned, if one of the parties is the person concerned (for example, an employee)
+nothing changed.
+
+2
+
+In the context of the transition to the new legislation, it is necessary that one of the first steps it should take
+The operator - the municipality / city to perform, is asking what personal data as a municipality / city
+I process on what legal basis (special law, contract, consent of the person concerned ...) it is
+this processing is "based" and whether the personal data processed are based on law or consent
+correspond to those that I process for the given purpose. It is also necessary if processing is based
+check, with the consent of the person concerned, that the consents are valid or meet the requirements of
+Act no. 122/2013 Coll. and if not, obtain these, if necessary. Me too
+necessary to confront consents under Act no. 122/2013 Coll. and the requirements for consents under
+Act no. 18/2018 Coll. and regulations to ensure that those obtained now comply with current law
+and were applicable, also applicable to the new legislation 8 . In case the municipality intends to acquire
+consents only from 25.5.2018 it is necessary to "set" them according to the new regulation. The result of this
+activities should be a transparency of the flow of personal data at the operator, municipality / city,
+and the liquidation of those personal data on the processing of which the municipality has no legal basis.
+The result of this activity will be a clear structure of what personal data the municipality / city as
+the operator processes and on what legal basis the processing is based.
+
+7 For
+
+example, resolving complaints under Act no. 9/2010 Coll. on complaints or arrangements for economic mobilization.
+
+8 See
+
+§ 110 par. 11 of Act no. 18/2018 Coll.
+
+Page 3
+
+Another important aspect is the supervision of how personal data is set up in a community / city environment
+the operator process, ie management and knowledge of how the municipality obtains personal data,
+who comes into contact with them within the municipality (in the environment of a municipal or city office), such as
+processes them (for example, whether the letter of the law is observed, if it also stipulates the method of processing).
+You need to know who has what access rights, such as personal data separated by appearance
+for their purpose and in the context of the job classification or job description and instructions
+employees. It is not right if the employees of the municipality or city have access to personal
+data for which it does not follow them on the basis of the job description. They should only perform those
+processing operations with personal data of which they have been instructed. If this is not the case,
+this authorization and access control structure needs to be set up correctly, thus eliminating it
+the possibility of security breaches and unauthorized access to personal data. In context
+Act no. 122/2013 Coll. processing of personal data by the operator, municipality or city,
+performed by instructed authorized persons. In the context of the regulation, this will be similar after the content
+on the formal side of the instruction, replace the operator's credentials with instructions,
+describing how the person having access and authorization to the personal data has the personal data
+process. 9
+Everyone has the right to know who processes their personal data and why
+information on who the operator is, why he has an obligation or may have his personal data
+to process them from where they are not provided to him by the person concerned himself. In the current legal
+regulation, this information obligation was regulated by § 15 par. 1 to 3 of Act no. 122/2013 Coll. whereas
+the basic and well-known exception was that if the operator, the municipality / city, whoever processed it
+personal data on the basis of the law, to fulfill this information obligation towards the person concerned
+did not have to (Section 15, Paragraph 3 of Act No. 122/2013 Coll.). Regulation and Act no. 18/2018 Coll. in order
+transparency and information of the data subject abolish this exemption from the information obligation,
+therefore, even if any operator, including a municipality / city, will process personal data on
+under the law (on an employee, on a local taxpayer ... or on another person) will be obligatory
+inform the person concerned. It is necessary to prepare for this change and to implement and process it
+"Privacy policy" in order to put the municipality / city in a position
+the operator fulfilled these obligations and was able to prove their fulfillment. 10
+
+3
+
+Another novelty, which will not be so "dramatic" in the environment of municipalities, is the obligation of the municipality to have
+designated responsible person 11 , this means that even municipalities that do not currently have a responsible person
+they must identify it and communicate its contact details to the Office. It is possible if the municipalities recognize it
+for an appropriate solution that will be enforceable in terms of the responsibilities of the responsible person to
+several municipalities have jointly designated one responsible person. The possibility of that remained unchanged
+the responsible person can be both the employee of the operator (employee of the municipality), as well as
+external person. 12
+
+9 Compare
+
+§ 21 of Act no. 122/2013 Coll. and Art. 32 par. 4 of the Regulation
+
+10 Compare
+11 See
+
+§ 15 par. 1 to 3 of Act no. 122/2013 Coll. and Art. 13 and 14 of the Regulation.
+
+guideline WP29 / Working Group according to Art. 29 to the responsible person:
+
+https://dataprotection.gov.sk/uoou/sites/default/files/usmernenia_tykajuce_sa_zodpovednych_osob.pdf .
+12 Compare
+
+§ 23 to § 27 of Act no. 122/2013 Coll. and Art. 37 to 39 of the Regulation.
+
+Page 4
+
+Regarding the issue of declaring security and protection of personal data in the environment
+specific operator (municipality / city), Act no. 122/2013 Coll. demanded a declaration
+security by documenting in the form of a security project only if
+the operator complied with Act no. 122/2013 Coll. stated criteria. Regulation and Act no.
+18/2018 Coll. they approach security in terms of its provision in the same way, only from a formal point of view
+abandons the strict formalized approach that followed for the operator in the case of
+if he had to draw up a security project, the details of which were set out in detail in
+decree. Regulation or law no. 18/2018 Coll. they are no longer so strict with documents
+describing the security measures taken formally, and it is up to the operator to
+how to deal with a formal description of the security measures taken by him, but which is
+always obliged to prove at the request of the Office, as such an obligation is stipulated by a regulation
+also Act no. 18/2018 Coll. 13
+Regulation and Act no. 18/2018 Coll. they understand the processing of personal data more in line
+description of general standards for the processing of personal data and no longer
+how the processing of personal data is carried out, therefore, for example, it is not in both texts
+individually specified adjustment of personal data processing by camera systems, such as
+this was the case in Act no. 122/2013 Coll. It will therefore be necessary for operators to do these
+processing operations were re-evaluated and they found the legal basis for monitoring most often
+in the legitimate interest or in the public interest, or carry out monitoring, if any
+provides for a special law on the basis of this special law.
+The above are just the basic features of some of the "processing" habits
+personal data from 25.5.2018 will need to be seen as an opportunity to start
+processing of personal data "again" and use this option for "major cleaning"
+personal data. Of course, this change requires detailed work and preparation to be done
+the Office will do much to facilitate its guidance and disclosure on
+its website 14 .
+
+13 Compare
+14 Website
+
+§ 19 of Act no. 122/2013 Coll. and Art. 32 of the Regulation.
+
+of the Office, information on the regulation: https://dataprotection.gov.sk/uoou/sk/main-content/nariad-gdpr.
+
+4
+
+

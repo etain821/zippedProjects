@@ -1,0 +1,346 @@
+Page 1
+
+Ensuring the conduct of elections and protection of voters' personal data
+Office for Personal Data Protection of the Slovak Republic (hereinafter referred to as the "Office")
+with regard to the upcoming elections to municipal self-government bodies
+the need to protect the personal data of voters.
+The conditions for the exercise of the right to vote and the organization of elections are regulated by law
+no. 180/2014 Coll. on the conditions for the exercise of the right to vote and on amendments
+certain laws (hereinafter referred to as “Act No. 180/2014 Coll.”). This law also imposes
+municipalities a number of obligations for which it is necessary to process personal data.
+Introduction
+The operator, in this case municipality 1 , is obliged to take measures to:
+with personal data for the purposes of exercising the right to vote and its security
+treated in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council
+(hereinafter referred to as the "Regulation") and Act no. 18/2018 Coll. on the protection of personal data
+a
+addition
+some
+laws
+(further
+len
+"the law
+and change
+no. 18/2018 Coll. ”). The municipality is primarily obliged to identify and describe all
+processes in connection with the electoral agenda, in which personal data are processed
+data subjects and the processing of personal data in accordance with the principles of:
+• legality - the controller in order to be able to process personal data
+legally, must have an adequate legal basis in accordance with Art. 6
+par. 1 Regulations / § 13 par. 1 of Act no. 18/2018 Coll.,
+• fairness and transparency - especially in terms of information provision
+obligations in relation to the persons concerned who are entitled to be
+informed of the processing of their personal data,
+• purpose limitation - personal data can only be obtained for specific, explicit
+stated and legitimate purpose and may not be further processed in a way that does not
+is compatible with this purpose,
+• minimization of personal data - the operator has a duty to consistently
+comply with the processing of only those personal data which he has for the purpose of enforcement
+the right to vote is enabled by Act no. 180/2014 Coll. It is necessary that the municipality
+it processed only personal data according to the law on documents and sheets
+no. 180/2014, it is also desirable that the one who produces the forms for performance
+elections to ensure that personal entries are not made arbitrarily
+data beyond the scope of Act no. 180/2014 Coll .; for non-disclosure and non-acquisition
+personal data beyond the scope of the law, it is appropriate to teach in this direction as well
+"Entitled persons" ensuring the conduct of elections,
+
+Operators of the permanent list of voters are in the context of § 9 par. 1 of Act no. 180/2014 Coll. village.
+"The permanent list of voters (hereinafter referred to as the" permanent list ") is compiled and maintained by the municipality, in the capital of Slovakia.
+1
+
+of the Republic of Bratislava and in the city of Košice the city district (hereinafter referred to as the “municipality”). He writes to the permanent list
+village voters who have a permanent residence in the village. A voter can only be registered in one permanent list. "
+
+Page 2
+
+• principle of correctness - the operator is obliged to process correctly
+and updated personal data. In this context, particular mention may be made
+the obligation of the municipality to continuously ascertain the facts that are the reason
+to change the permanent list of voters,
+• minimization of personal data retention - the operator is
+authorized to keep personal data in a form that allows identification
+the persons concerned only for the time necessary to achieve the purpose
+processing,
+• integrity and confidentiality - proper security of personal data.
+1. Records of processing activities
+Records of processing activities according to Art. 30 Regulations / § 37 of the Act
+no. 18/2018 Coll. (sample here: https://dataprotection.gov.sk/uoou/node/484) is necessary
+update the purpose of the processing of personal data, which is to ensure performance
+and the conduct of the elections, for example according to procedure 2 below :
+Purpose of processing: Ensuring the course of elections, the agenda of elections, ensuring the agenda of the municipality
+according to law no. 180/2014 Coll.
+Legal basis: Act no. 180/2014 Coll .; The indication of the legal basis is optional.
+Categories of persons concerned: voters, members of the local and precinct election commission, candidates
+Categories of personal data: ordinary personal data; the municipality may optionally complete this field
+also to provide an exact list of personal data.
+Categories of beneficiaries: to be filled in by the municipality
+Planned period for deletion: to be filled in by the municipality in accordance with special regulations and the registry
+order
+Precautions: to be completed by the municipality ; for example, a link to the documentation received will suffice
+security measures, or describe in detail the individual organizational and technical
+measures - election documentation is stored in locked rooms, access
+to electronic data files is secured with passwords and in accordance with the settings
+access rights, the data shall be made available only to authorized persons who act in accordance with
+with the instructions given by the operator and others.
+2. Information obligation
+Above all, the municipality must be prepared to fulfill the information obligation towards
+concerned. With regard to the information obligation, it should be noted that
+municipalities must already have, in accordance with Art. 13 or 14 of the Regulation / § 19 or § 20 of Act no.
+Applies only to municipalities that do not have the given purpose of processing in their records of processing
+activities already defined.
+2
+
+Page 3
+
+18/2018 Coll. fulfilled the complex information obligation they usually have
+published on the official notice board or on the website of the municipality. Comprehensive information
+the obligation means that it involves and informs the persons concerned of any purpose of processing
+personal data performed by the municipality, it is therefore necessary to rely on records
+on processing activities, where the individual purposes of processing are to be defined
+and continuously updated.
+We recommend that despite the existence of a comprehensive information obligation, which
+should already include the purpose of securing elections, in accordance with the principle of
+transparency, the municipalities have taken appropriate measures to provide the person concerned
+all information referred to in Art. 13 or 14 of the Regulation / § 19 or § 20 of the Act
+no. 18/2018 Coll., Which relate to the processing of personal data for a defined purpose,
+which is to ensure the conduct of elections under Act No. 180/2014 Coll., Namely
+in a concise, transparent, comprehensible and easily accessible form, worded clearly
+and simply, especially in the case of information specifically for the elderly who
+we place it in a more vulnerable category of affected persons. This makes the village easier to prepare as well
+to address a possible situation envisaged by Regulation / Act no. 18/2018
+Z. z., When the person concerned requests that his information be provided orally. So the goal
+can only be the elaboration of an "excerpt" from the complex information obligation, while
+within this document it is possible to subsequently provide a link, for example in the wording - more
+information on the processing of personal data is available on the official notice board / website
+municipality / on the notice board or in person at the employee of the first contact office.
+What, for example, can this information obligation to voters look like?
+
+Information for voters on the processing of personal data
+Operator
+Responsible person - contact
+
+Indicate the municipality
+Contact the responsible person shall be provided
+
+Rights of the person concerned
+the right of access to personal data
+
+Yes
+Yes
+
+the right to correct personal data
+the right to delete personal data
+
+not
+
+the right to restrict the processing of personal data yes
+the right to the transfer of personal data
+
+not
+
+the right to object to the processing of personal data
+
+not
+the right to file a motion to initiate proceedings pursuant to Section 100
+Act no. 18/2018 Coll.
+Yes
+Information on the data processed
+purpose of processing
+
+ensuring the conduct of elections
+
+Page 4
+
+legal basis
+retention period
+recipients
+legitimate interests
+
+Act no. 180/2014 Coll. on performance conditions
+electoral law and amending
+certain laws
+to be filled in by the municipality
+to be filled in by the municipality
+not
+
+transfer to a third country
+not
+automated
+individually
+decision-making, including profiling, no
+Provision of personal data, in particular in relation to the voter 's obligation to prove his or her identity
+identity with an identity card or other official document that it contains
+the image of a voter and all the information about him in the voter list is legal
+requirement in accordance with Act no. 180/2014 Coll. on the conditions for the exercise of the election
+law and amending certain laws.
+It should also be pointed out that the operator only demonstrates compliance
+its obligation to inform the person concerned within the meaning of Article 13 or 14 of the Regulation / § 19
+or 20 of Act no. 18/2018 Coll. and not whether the person concerned has actually become acquainted
+with the content of the information obligation by reading it, ie there is no obligation to, for example
+the document by which the operator fulfills the information obligation was also itself
+signed by the person concerned or would even be required to be signed.
+Equally important and necessary is to deal with the provision of information in the language
+national minority / in a form intended for the blind and partially sighted in municipalities
+according to a special regulation.
+The municipality must not forget that it is obliged to fulfill the information obligation according to
+Art. 13 or 14 of the Regulation / § 19 or 20 of Act no. 18/2018 Coll. also internally, in
+relationship with members of the local and precinct election commission whose personal data
+as well as in relation to individual candidates for
+council and the mayor, where the purpose of the processing is different from the above
+situation, this purpose of processing is the registration of candidates for municipal elections
+council or for the election of the mayor of the municipality. As a way of fulfilling this form
+the obligation to provide information orally is also possible
+form, or in the form of a separate document. If personal information
+have not been obtained directly from the candidate as the person concerned (Article 14 of the Regulation / § 20 of the Act
+no. 18/2018 Coll.) We pay attention to exceptions from the information obligation according to
+par. 5 of the provision in question.
+How the operator can fulfill the information obligation in the relationship
+to voters?
+There are several options, especially the need for operators to think
+also on the adequacy and suitability of individual measures, for example from a point of view
+administrative complexity. An example is the publication of information on the bulletin board
+
+Page 5
+
+in the polling station, on the municipality's website, placement of information boards,
+possibly the possibility of fulfilling the information obligation at the same time as publishing the information
+on the conditions of the right to vote and the right to be elected on the official board of the municipality and on the website
+the seat of the municipality, if it has been established, according to § 21 par. 1 of Act no. 180/2014 Coll. or simultaneously
+with delivery of the notification according to § 21 par. 3 of Act no. 180/2014 Coll., Which are intended for
+each household, and in which the municipality states the time of the elections, the constituency,
+polling station, brief method of adjusting the ballot paper and the obligation of the voter
+to prove oneself before voting with an identity card.
+3. Security measures
+In conjunction with Art. 25 and Art. 32 Regulations / § 32 and § 39 of Act no. 18/2018 Coll. is a
+the controller is obliged to assess the risks in the processing of personal data
+and taking into account the seriousness of the possible interference with the rights and freedoms of the persons concerned
+adequate security measures, by which we mean technical measures
+and organizational.
+Part of security measures is, in particular, to ensure the obligation to
+that any person acting under the authority of the operator; or
+intermediary and has access to personal data processed only on the basis of
+instructions of the operator ( obligation to instruct in the context of Article 32 (4) of the Regulation
+and Art. 29 Regulations / § 39 par. 4 of Act no. 18/2018 Coll. and § 36 of Act no. 18/2018 Coll.),
+or in accordance with a special regulation or international agreement which is
+Slovak Republic bound. In practice, an authorization may also mean an authorization for
+performance of an act or a similar document, of which they may or may not be attached
+be at the same time instructions for the processing of personal data.
+According to § 11 par. 4 of Act no. 180/2018 Coll. anyone who is eligible
+to get acquainted with the data in the voter list, he is obliged to keep about them
+secrecy . This obligation is also reflected in Act no. 18/2018 Coll. in § 79, which imposes
+the obligation of the operator and the intermediary to be bound by confidentiality
+on the personal data of natural persons who come into contact with personal data
+at the operator or intermediary. In case they are in the polling station
+present in addition to members of the precinct election commission, its recorder and others
+other persons who have expressed an interest in observing the conduct of the elections, and
+the counting of votes must be such that, in particular, those persons cannot inspect the
+list of voters, or made extracts, write-offs, photographic records or
+videos.
+In connection with the fulfillment of obligations pursuant to § 24 par. 2 of Act no. 180/2014 Coll.,
+specifically with the obligation of the voter to sign the takeover of the ballot paper by hand
+and envelopes in the voter list will need to be individual district members
+election commissions proceeded with this act in such a way as to prevent unauthorized use
+making personal data available to other voters whose personal data are contained
+on the same page of the relevant voter list. This can be achieved
+
+Page 6
+
+for example, by translating blank papers into the personal data of other voters located
+on the list of voters, which will allow the voter concerned to see only his or her signature when signing
+personal information. In the case of voting outside the polling station, seconded members
+the district election commission shall take the same measures when signing the voter
+protection of personal data of other voters registered on the electoral roll
+As part of its activities, the Office also met with suggestions from citizens who objected
+non-compliance with the discrete zone. The situation can be solved, for example, by marking discrete
+zone by marking its contours on the floor, or correcting by members
+the Electoral Commission that voters come to the polling station on an ongoing basis and to take over
+ballots took place gradually, thus ensuring the confidentiality of the data
+voters.
+4. Selected application problems in securing elections
+Something has changed about the processing of the birth number in the conditions of the new legal
+privacy adjustments?
+Birth number is no longer a special category of personal data (not included
+to Art. 9 Regulations / § 16 of Act no. 18/2018 Coll.); birth number processing adjustment is
+defined in § 78 par. 4 of Act no. 18/2018 Coll. " When processing personal data
+a universally applicable identifier may be used for the purpose of identifying a natural person
+according to a special regulation22 ) only if its use is necessary to achieve
+for the purpose of processing. Consent to processing generally applicable
+the identifier must be explicit and must not be precluded by a specific regulation in the case of his
+processing on the legal basis of the consent of the data subject. Publish in general
+the usable identifier is prohibited; this does not apply if the universally applicable identifier
+published by the person concerned himself. “. Publish a universally applicable identifier
+continues to prohibit, nor does the consent of the person concerned, this prohibition on the publication of a personal identification number
+can't break.
+In order for the controller to be able to process personal data in a lawful manner
+the persons concerned must have a so-called legal authorization resp. relevant legal basis.
+In this case, the processing of the birth number is carried out on a legal basis, which
+is a special law. According to § 9 par. 3 of Act no. 180/2014 Coll. about the voter in permanent
+the list shall contain the following information: a) name and surname, b) birth number , if it is an alien,
+date of birth, unless birth number assigned, c) nationality, d) name
+municipality, street name, if the municipality is divided into streets, inventory number and reference number of the house
+permanent residence.
+Obtaining the consent of the data subject with the processing of his personal data is
+in such cases redundant and confusing for the person concerned, as
+the controller has a relevant legal basis for the processing in question
+in accordance with Art. 6 par. 1 letter c) Regulations / § 13 par. 1 letter c) of Act no. 18/2018 Coll.,
+in connection with Act no. 180/2014 Coll.
+
+Page 7
+
+My personal data is made available to the members of the election commission, I am a voter
+worried they might be abused?
+According to § 11 of Act no. 180/2014 Coll. list of voters for each election
+the district is prepared by the municipality from a permanent list. This voter list will be submitted by the municipality
+the district election commission no later than one hour before the start of the voting and whoever is
+authorized to become acquainted with the data in the voter list, is obliged to maintain about them
+confidentiality and processes them only in accordance with the instructions (instructions) of the operator.
+Processing of personal data of voters, including birth number for enforcement purposes
+electoral law and in connection with its disclosure to members of the electoral commission
+contrary to Regulation / Act no. 18/2018 Coll. Every operator, in this
+In this case, the municipality is responsible for the security of personal data and is obliged to comply
+security measures to ensure the protection of personal data.
+What if a candidate list of an independent candidate or a candidate list
+political party contains personal data that is not a local election commission
+entitled in accordance with the exhaustively defined list of personal data in law
+no. 180/2014 Coll. process?
+Act no. 180/2014 Coll. defines a particular situation in which it occurs
+to the processing of personal data and at the same time determines the list of personal data that is
+the operator obliged to process may process them only to the extent that for
+it is established by a generally binding legal regulation and it is not appropriate to extend it
+a list of personal data beyond what is provided by a special law.
+First and foremost, the operator should ensure that to provide personal
+data beyond the list of personal data defined in Act no. 180/2014 Coll.
+did not occur, for example by creating uniform candidate lists, which would
+did not allow the data subjects to provide optional data / enter data beyond
+those stipulated by law, the so-called providing personal data "for safety".
+In the case of obtaining personal data, which is not stipulated by law
+no. 180/2014 Coll. In order to ensure the conduct of the elections, the operator would have to
+further processing have a relevant legal basis in accordance with Art. 6 par. 1
+Regulations / § 13 par. 1 of Act no. 18/2018 Coll., For example with the consent of the person concerned.
+The deletion of that part of the candidate list which goes beyond the scope of the law seems to be a suitable solution
+contains "unnecessary" personal data, unnecessary for the given purpose of processing. This
+the approach is also appropriate in terms of compliance with one of the basic principles of processing,
+namely the principles of data minimization.
+If the registration authority receives a list of candidates for registration, of which it is a part
+there is also a voter list to support the candidate in the election, which contains the data
+beyond the requirements of a special law, how should such data be handled?
+The situation is similar to the previous case. In the signature in question
+In the document, each voter shall state the name and surname, date of birth, permanent residence
+means the name of the municipality, the name of the street, if the municipality is divided into streets, and the house number. On everyone
+
+Page 8
+
+the name, surname, title, date of birth and address shall be given on the signature sheet
+permanent residence of the candidate. The operator, in this case the candidate
+to the deputy, resp. the mayor of the municipality, who processes personal data for the purpose of obtaining
+the required number of signatures of voters supporting his candidacy is hereby bound
+the list of personal data defined by Act no. 180/2014 Coll. Beyond this as follows
+may receive additional personal data, such as telephone number, e-mail
+address only if it has an adequate legal basis for such a purpose
+the consent of the person concerned. In terms of the new legislation on personal data protection is
+it should be noted that the institute of consent is strictly formalized. Consent must be free
+granted, specific, unambiguous and informed, to which the obligation relates in particular
+inform the data subject of the right to withdraw consent to the processing of personal data.
+It is necessary to inform those who will spread the petition to the public to be affected
+persons have drawn attention to the provision of data only to the extent provided by law.
+
+
